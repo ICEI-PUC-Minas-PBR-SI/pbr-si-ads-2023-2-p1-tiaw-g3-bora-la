@@ -2,21 +2,25 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11591899&assignment_repo_type=AssignmentRepo)
 # Título do Projeto
 
-`CURSO: Sistemas de Informação`
+`CURSO: Tencnólogo em Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA: Projeto - Aplicações Web`
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O que é o "BORA LÁ"?
+
+O "Bora lá" é uma rede socila que conecta pessoas a lugares por categoria, contendo um sistema de avaliação em tempo real o qual permite que os usuários avaliem, publicando fotos e vídeos em tempo real de locais e eventos, dando um "spoiler" para outros usuários que estão interessados em comparecer nesse evento.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Benjamin Oliveira
+* Maria Eduarda Wilken
+* Kelvin Vinicíus
+* João Gabriel Pires
+* Carlos Henrique Pereira Vieira
+* Nicole Ferreira
+* Flávio Siqueira
 
 ## Orientador
 
@@ -25,6 +29,20 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 # Planejamento
 
 | Etapa         | Atividades |
+|  :----:   | ----------- |
+| ETAPA 1         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
+| ETAPA 2         |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
+| ETAPA 3         |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
+| ETAPA 4        |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
+| ETAPA 5         | [Apresentação](presentation/README.md) |
+
+# Código
+
+<li><a href="src/README.md"> Código Fonte</a></li>
+
+# Apresentação
+
+<li><a href="presentation/README.md"> Apresentação da solução</a></li>
 |  :----:   | ----------- |
 | ETAPA 1         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
 | ETAPA 2         |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |

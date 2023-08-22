@@ -23,7 +23,7 @@ O "Bora lá" é uma rede social que conecta pessoas a lugares por categoria, con
 
 ## Orientador
 
-* Nome completo do professor 1
+* Professor Fábio Rodrigues Cordeiro
 
 # Planejamento
 

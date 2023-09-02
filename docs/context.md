@@ -23,14 +23,22 @@ Pode-se notar diversas situações nas quais ambientes com excelentes avaliaçõ
 ## Objetivos
 
 Conectar pessoas a lugares por  categoria: casa de show, bares, igrejas, gêneros musicais e outros ambientes festivos;
+
 ·	Procurar um ambiente legal para dar um rolê;
+
 ·	Cadastrar os ambientes por categorias;
+
 ·	Ranquear os ambientes de acordo com as categorias;
+
 ·	Ranquear os usuários de acordo com a utilização da plataforma;
-·	Ver o rolê antes de sair de casa.
+
+·	Ver o rolê antes de sair de casa;
+
 
 ·	Conexão;
+
 ·	Rolê por IA (recomendação por conexão);
+
 
  
 > **Links Úteis**:

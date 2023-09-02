@@ -1,21 +1,19 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+Bem-vindo ao Bora Lá, a sua janela em tempo real para o mundo ao seu redor! Com o nosso aplicativo inovador, você terá acesso imediato a informações cruciais sobre os locais públicos em sua região. Não precisa mais se preocupar com a incerteza de como estão os bares, restaurantes e outros lugares, porque nós fornecemos todas as informações que você precisa para tomar decisões informadas e aproveitar ao máximo o seu tempo.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Imagine poder verificar a lotação de bares, restaurantes, entre outros pontos comerciais antes de sair de casa, fazer conexões com quem deseja, ou até mesmo decidir onde jantar baseado em avaliações, fotos e comentários de outros clientes. Com Bora Lá, isso é totalmente possível! Nossa plataforma permite que você veja em tempo real se um lugar está movimentado ou tranquilo, para que você possa escolher o ambiente que se adequa ao seu humor.
 
+Com nosso projeto, beneficiamos tanto o comércio quanto a clientela, dando visibilidade do seu negócio à todos, independente de sua localização. Através de fotos, atualizações ao vivo da lotação, dando de certa forma um suporte em seu gerenciamento. Entrando em parceria com nossa organização você terá tudo isso e um pouco mais, entre em contato conosco!
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
+Não importa se você está procurando um local animado para um encontro, um lugar tranquilo para relaxar ou um restaurante que sirva o seu prato favorito, o Bora lá tem tudo sob controle. Através dele, você também pode localizar as melhores atrações mais perto de você, com a distância exata de onde você está até o local desejado.
 
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Prepare-se para tomar decisões mais inteligentes e explorar sua região como nunca antes. Faça o download do Bora Lá agora e comece a vivenciar o mundo ao seu redor de uma maneira totalmente nova!
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O bora lá propõe um sistema que influenciará no marketing de estabelecimentos e na experiência do cliente, tornando a saída mais satisfatória de acordo com os gostos dos usuários.
+Propomos acabar com o problema da incerteza dos usuários, permitindo que esses vejam verdadeiramente, através de avaliações de outros usuários em tempo real, como está o "rolê" pretendido, evitando decepções em última hora e ajudando esses que chamamos de "rolezeiros" a conhecer lugares novos que podem satisfazer as suas vontades.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)

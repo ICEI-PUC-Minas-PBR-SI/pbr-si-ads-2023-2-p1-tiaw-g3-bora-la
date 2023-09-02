@@ -12,8 +12,8 @@ Prepare-se para tomar decisões mais inteligentes e explorar sua região como nu
 
 ## Problema
 
-O bora lá propõe um sistema que influenciará no marketing de estabelecimentos e na experiência do cliente, tornando a saída mais satisfatória de acordo com os gostos dos usuários.
-Propomos acabar com o problema da incerteza dos usuários, permitindo que esses vejam verdadeiramente, através de avaliações de outros usuários em tempo real, como está o "rolê" pretendido, evitando decepções em última hora e ajudando esses que chamamos de "rolezeiros" a conhecer lugares novos que podem satisfazer as suas vontades.
+A problemática que nosso aplicativo visa resolver é a ausência de avaliações reais de eventos e locais, ao pesquisar locais e eventos em sites que já existem como o Google e o sympla, temos acesso à diversas avaliações e fotos, porém essas informações são muito rasas e, na maioria vezes, desatualizadas, já que não mostram realmente como está o lugar em tempo real.
+Pode-se notar diversas situações nas quais ambientes com excelentes avaliações não suprem as expectativas por elas criadas na realidade, ou até mesmo o contrário... Estabelecimentos mal divulgados, com um trabalho de marketing menos explorados, podem nem aparecer nessas pesquisas mas se mostram uma escolha excepcional para a situação.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -22,18 +22,24 @@ Propomos acabar com o problema da incerteza dos usuários, permitindo que esses 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Conectar pessoas a lugares por  categoria: casa de show, bares, igrejas, gêneros musicais e outros ambientes festivos;
+·	Procurar um ambiente legal para dar um rolê;
+·	Cadastrar os ambientes por categorias;
+·	Ranquear os ambientes de acordo com as categorias;
+·	Ranquear os usuários de acordo com a utilização da plataforma;
+·	Ver o rolê antes de sair de casa.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+·	Conexão;
+·	Rolê por IA (recomendação por conexão);
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O bora lá propõe um sistema que influenciará no marketing de estabelecimentos e na experiência do cliente, tornando a saída mais satisfatória de acordo com os gostos dos usuários.
+Propomos acabar com o problema da incerteza dos usuários, permitindo que esses vejam verdadeiramente, através de avaliações de outros usuários em tempo real, como está o "rolê" pretendido, evitando decepções em última hora e ajudando esses que chamamos de "rolezeiros" a conhecer lugares novos que podem satisfazer as suas vontades.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)

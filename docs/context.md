@@ -12,8 +12,13 @@ Prepare-se para tomar decisões mais inteligentes e explorar sua região como nu
 
 ## Problema
 
-A problemática que nosso aplicativo visa resolver é a ausência de avaliações reais de eventos e locais, ao pesquisar locais e eventos em sites que já existem como o Google e o sympla, temos acesso à diversas avaliações e fotos, porém essas informações são muito rasas e, na maioria vezes, desatualizadas, já que não mostram realmente como está o lugar em tempo real.
-Pode-se notar diversas situações nas quais ambientes com excelentes avaliações não suprem as expectativas por elas criadas na realidade, ou até mesmo o contrário... Estabelecimentos mal divulgados, com um trabalho de marketing menos explorados, podem nem aparecer nessas pesquisas mas se mostram uma escolha excepcional para a situação.
+O aplicativo "Bora Lá" surge como uma solução inovadora para uma problemática que afeta muitos de nós: a falta de informações confiáveis e atualizadas sobre locais públicos em nossa região. Com a crescente dependência de sites como o Google e o Sympla para obter informações sobre bares, restaurantes e eventos, muitas vezes nos deparamos com avaliações superficiais e desatualizadas que não refletem a realidade. Esta problemática se manifesta de diversas maneiras e pode resultar em experiências insatisfatórias ao sair de casa.
+
+Um dos principais desafios é a falta de informações detalhadas. Muitos sites existentes fornecem avaliações curtas e fotos estáticas, que nem sempre capturam a essência de um local ou evento. Isso cria um vácuo de informações, onde os clientes são forçados a tomar decisões baseadas em dados limitados. A consequência disso é que as expectativas muitas vezes não são atendidas quando visitamos esses lugares.
+
+Além disso, a ausência de informações em tempo real é outra faceta dessa problemática. As condições dos locais públicos podem mudar rapidamente, seja devido à lotação, ao ambiente ou à qualidade dos serviços oferecidos. Sem informações atualizadas, os clientes correm o risco de encontrar situações inesperadas que podem afetar negativamente sua experiência.
+
+Outro aspecto importante é a falta de visibilidade para os negócios locais. Estabelecimentos que não têm uma presença forte na internet podem passar despercebidos, mesmo que ofereçam experiências excepcionais. Isso é injusto tanto para os negócios, que perdem oportunidades de atrair clientes, quanto para os consumidores, que podem perder a chance de descobrir lugares interessantes.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -46,18 +51,18 @@ Conectar pessoas a lugares por  categoria: casa de show, bares, igrejas, gênero
 
 ## Justificativa
 
-O bora lá propõe um sistema que influenciará no marketing de estabelecimentos e na experiência do cliente, tornando a saída mais satisfatória de acordo com os gostos dos usuários.
-Propomos acabar com o problema da incerteza dos usuários, permitindo que esses vejam verdadeiramente, através de avaliações de outros usuários em tempo real, como está o "rolê" pretendido, evitando decepções em última hora e ajudando esses que chamamos de "rolezeiros" a conhecer lugares novos que podem satisfazer as suas vontades.
+É nesse contexto que o aplicativo "Bora Lá" entra em cena. Ele se propõe a resolver essas problemáticas fornecendo aos usuários informações detalhadas e em tempo real sobre os locais públicos em sua região. Isso inclui avaliações aprofundadas, fotos e comentários de clientes reais, além de atualizações ao vivo da lotação e das condições dos estabelecimentos. Com essas informações em mãos, os usuários podem tomar decisões mais informadas, escolher locais que atendam às suas preferências e evitar decepções.
+
+Além disso, o "Bora Lá" oferece uma plataforma que dá visibilidade aos negócios locais, independentemente de sua presença na internet. Isso beneficia tanto os consumidores, que têm a oportunidade de descobrir estabelecimentos excepcionais, quanto os negócios, que podem atrair uma audiência mais ampla e melhorar seu gerenciamento.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O público-alvo do BORA LA é diversificado e abrange diversas faixas etárias de pessoas ansiosas para explorar novos roles em busca de entretenimento e experiências únicas sem perder tempo com locais que não atendem às suas expectativas. Esse aplicativo será atraente para os entusiastas de eventos e gastronomia que valorizam não apenas a conveniência, mas também a qualidade, seja descobrindo novos lugares para comer ou participando de eventos de musica, cultura, entre outros, na cidade. Familias tambem podem ser um público importante, buscando eventos familiares, festivais locais e atividades que envolvam crianças. Nós valorizamos informações sobre eventos que proporcionem diversão para toda a tamilia.
+Além disso, entusiastas de cultura, arte e música, bem como indivíduos interessados em eventos esportivos, também seriam parte do público-alvo. Turistas que desejam explorar a cidade durante sua estadia também podem utilizar o site para encontrar eventos locais interessantes.
+Em resumo, o publico-alvo de um site de localização e avaliação de eventos é diversificado e inclui jovens adultos em busca de entretenimento, amantes da gastronomia, famílias, profissionais ocupados, entusiastas de cultura, arte, musica e esportes, bem como turistas em busca de experiencias locais durante suas viagens.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)

@@ -20,10 +20,6 @@ Além disso, a ausência de informações em tempo real é outra faceta dessa pr
 
 Outro aspecto importante é a falta de visibilidade para os negócios locais. Estabelecimentos que não têm uma presença forte na internet podem passar despercebidos, mesmo que ofereçam experiências excepcionais. Isso é injusto tanto para os negócios, que perdem oportunidades de atrair clientes, quanto para os consumidores, que podem perder a chance de descobrir lugares interessantes.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 

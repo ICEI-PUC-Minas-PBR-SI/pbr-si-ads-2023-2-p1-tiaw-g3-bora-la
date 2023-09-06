@@ -35,6 +35,21 @@ Dar Visibilidade aos Pequenos Negócios Locais: Thiago sabe que, ao usar o "Bora
 No geral, o "Bora Lá" tornou a transição de Thiago de sua vida de solteiro para a vida em família muito mais suave, fornecendo-lhe as ferramentas necessárias para encontrar lugares que todos possam desfrutar. Agora, Thiago e sua nova família podem criar memórias especiais e aproveitar seu tempo juntos de uma maneira totalmente nova e significativa.
 
 
+2-Reinaldo sempre foi conhecido como o "recluso" em seu bairro. Sua ansiedade social o mantinha dentro de casa na maior parte do tempo, longe do tumulto do mundo exterior. Ele ansiava por conexões humanas, mas o medo de conhecer novas pessoas o paralisava.
+
+Um dia, enquanto navegava na internet em busca de soluções para sua solidão, Reinaldo se deparou com um aplicativo chamado "Bora Lá". Era uma plataforma que prometia ajudar pessoas introvertidas a encontrar lugares interessantes e eventos sociais para participar, de forma gradual e confortável.
+
+Depois de muita hesitação, Reinaldo decidiu dar uma chance ao aplicativo. Ele o baixou e criou um perfil com sua foto e algumas informações básicas. A ideia de sair de casa ainda o deixava ansioso, mas ele estava determinado a superar suas limitações.
+
+O "Bora Lá" mostrou a Reinaldo uma lista de eventos próximos que iam desde pequenas reuniões em cafés até eventos culturais em sua cidade. Ele escolheu um evento de arte local que aconteceria naquela semana. Antes de ir, ele pesquisou sobre o local e as pessoas que estariam lá, o que o ajudou a se sentir mais preparado.
+
+No dia do evento, Reinaldo estava nervoso, mas decidiu enfrentar seus medos. Ele chegou ao local e, aos poucos, começou a interagir com os outros visitantes, graças às informações que tinha obtido pelo aplicativo. À medida que a noite avançava, ele encontrou pessoas com interesses semelhantes e teve conversas significativas.
+
+Nos meses seguintes, Reinaldo usou o "Bora Lá" para explorar sua cidade e conhecer novas pessoas. Sua ansiedade ainda o acompanhava, mas ele aprendeu a lidar com ela gradualmente. Ele percebeu que o mundo lá fora era cheio de oportunidades e conexões esperando por ele.
+
+A jornada de Reinaldo não foi fácil, mas ele finalmente conseguiu superar sua ansiedade social e se tornar uma pessoa mais confiante e sociável. Tudo isso graças a um aplicativo que o encorajou a dar o primeiro passo para sair de sua zona de conforto e abraçar o mundo ao seu redor.
+
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:

@@ -7,33 +7,28 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 1- Nome: Thiago<br/>
-Idade: 25 anos
-Estado Civil: Casado com Vitória
-Situação Familiar: Pai de dois filhos pequenos
-Estilo de Vida Anterior: Solteiro, vida social ativa em bares e boates
-Nova Realidade: Precisa encontrar lugares familiares para aproveitar com a esposa e filhos
-História de Thiago:
+Idade: 25 anos<br/>
+Estado Civil: Casado com Vitória<br/>
+Estilo de Vida Anterior: Solteiro, vida social ativa em bares e boates<br>
+Nova Realidade: Precisa encontrar lugares familiares para aproveitar com a esposa e filhos<br/>
+História de Thiago:<br/>
 
 Thiago costumava ser conhecido como o cara da vida noturna. Ele adorava sair com os amigos, frequentar bares animados e dançar a noite toda em boates. Mas a vida de Thiago deu uma guinada quando ele conheceu Vitória, uma mulher incrível com dois filhos pequenos. Eles se apaixonaram e decidiram se casar, unindo suas vidas em uma nova família.
 
 Com essa mudança, Thiago percebeu que suas preferências de lazer também precisavam mudar. Sair para bares e boates não era mais uma opção viável com dois filhos pequenos para cuidar. Ele quer encontrar lugares familiares onde possa passar um tempo de qualidade com sua esposa e os pequenos, criar memórias especiais e fortalecer os laços familiares.
 
-Como o "Bora Lá" pode ser útil para Thiago:
+O "Bora Lá" se tornou o aplicativo go-to de Thiago para ajudá-lo a encontrar lugares ideais para sair com a família. 
 
-O "Bora Lá" se tornou o aplicativo go-to de Thiago para ajudá-lo a encontrar lugares ideais para sair com a família. Com o aplicativo, Thiago pode:
+Thiago pode usar o "Bora Lá" para descobrir locais familiares, como parques, áreas de piquenique, restaurantes com opções para crianças e eventos familiares. Ele pode filtrar as opções com base em suas necessidades específicas.
 
-Encontrar Locais Adequados: Thiago pode usar o "Bora Lá" para descobrir locais familiares, como parques, áreas de piquenique, restaurantes com opções para crianças e eventos familiares. Ele pode filtrar as opções com base em suas necessidades específicas.
+Ele pode ler avaliações e comentários de outros pais que visitaram esses locais com suas crianças, o que o ajuda a ter uma ideia clara da experiência que pode esperar.
+ Com atualizações em tempo real, Thiago pode também verificar a lotação atual de um local e o ambiente, garantindo que seja um lugar apropriado para a idade de seus filhos e o que ele deseja para um dia em família.
+ O aplicativo também mostra atividades e eventos próximos para a família, como festivais, feiras, teatro infantil e muito mais.
 
-Ver Avaliações de Famílias: Thiago pode ler avaliações e comentários de outros pais que visitaram esses locais com suas crianças, o que o ajuda a ter uma ideia clara da experiência que pode esperar.
-
-Verificar Lotação e Ambiente: Com atualizações em tempo real, Thiago pode verificar a lotação atual de um local e o ambiente, garantindo que seja um lugar apropriado para a idade de seus filhos e o que ele deseja para um dia em família.
-
-Encontrar Atividades Próximas: O aplicativo também pode mostrar atividades e eventos próximos para a família, como festivais, feiras, teatro infantil e muito mais.
-
-Dar Visibilidade aos Pequenos Negócios Locais: Thiago sabe que, ao usar o "Bora Lá", também está apoiando negócios locais que oferecem experiências familiares de qualidade.
+ Thiago sabe que, ao usar o "Bora Lá", também está apoiando negócios locais que oferecem experiências familiares de qualidade.
 
 No geral, o "Bora Lá" tornou a transição de Thiago de sua vida de solteiro para a vida em família muito mais suave, fornecendo-lhe as ferramentas necessárias para encontrar lugares que todos possam desfrutar. Agora, Thiago e sua nova família podem criar memórias especiais e aproveitar seu tempo juntos de uma maneira totalmente nova e significativa.
-
+<br/>
 
 2-Reinaldo sempre foi conhecido como o "recluso" em seu bairro. Sua ansiedade social o mantinha dentro de casa na maior parte do tempo, longe do tumulto do mundo exterior. Ele ansiava por conexões humanas, mas o medo de conhecer novas pessoas o paralisava.
 

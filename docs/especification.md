@@ -6,7 +6,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-1- Nome: Thiago
+1- Nome: Thiago<br/>
 Idade: 25 anos
 Estado Civil: Casado com Vitória
 Situação Familiar: Pai de dois filhos pequenos

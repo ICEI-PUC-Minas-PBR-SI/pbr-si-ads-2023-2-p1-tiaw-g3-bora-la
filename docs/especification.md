@@ -44,6 +44,12 @@ Nos meses seguintes, Reinaldo usou o "Bora Lá" para explorar sua cidade e conhe
 
 A jornada de Reinaldo não foi fácil, mas ele finalmente conseguiu superar sua ansiedade social e se tornar uma pessoa mais confiante e sociável. Tudo isso graças a um aplicativo que o encorajou a dar o primeiro passo para sair de sua zona de conforto e abraçar o mundo ao seu redor.
 
+3- Lilian é uma jovem adulta de 21 anos, atualmente é universitária e se encontra no quarto período em odontologia pela pontifícia universidade católica de minas gerais, no campus da Praça da liberdade. bonita, solteira, bastante alegre, extrovertida, adora conversar com suas amigas, conhecer novos lugares,  pessoas e ter uma boa conversa em  um ambiente alegre e descontraído.Por conta disso, sempre que possível, suas colegas e amigas a chamam para ir a algum estabelecimento para festejar, beber ou conversar, mas sempre acaba recusando. Apesar de gostar muito de ir em festas, ela possui muito receio de sair para festas mais movimentadas e sem companhias por conta de já ter sofrido com assédio no passado, por conta disso ela se abstém de ir em festas ou locais mesmo que ela queira muito ir. 
+
+Através do “bora lá”, por conta dos usuários compartilhar informações em tempo real, ela vai poder saber se o local possui segurança, se houve casos de assédio neste estabelecimento durante o dia, e qual é o perfil de pessoas presentes no local, assim podendo realmente se precaver de ir para um possível local que possui riscos de ser assediada ou ter mais segurança para ir em locais que julgar ser mais seguro segundo o feedback de usuárias que também podem ter esse mesmo tipo de medo. Além disso, o “Bora lá” possui mecanismo de alerta de ocorrências de assédio tanto para o estabelecimento estar ciente da situação e poder tomar uma atitude, e até mesmo um alerta que é notificado diretamente para órgão governamentais de segurança pública, como a polícia militar e guardas municipais em casos mais graves, para que o assediador seja preso.
+
+Graças ao “Bora lá”, Lilian conseguirá ir para estabelecimentos sem ter medo de sofrer qualquer ameaça ou assédio.
+
 
 ## Histórias de Usuários
 

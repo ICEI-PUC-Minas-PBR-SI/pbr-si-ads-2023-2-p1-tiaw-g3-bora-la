@@ -50,6 +50,10 @@ Através do “bora lá”, por conta dos usuários compartilhar informações e
 
 Graças ao “Bora lá”, Lilian conseguirá ir para estabelecimentos sem ter medo de sofrer qualquer ameaça ou assédio.
 
+4- Kelvin, é um jovem de 25 anos que acabou de se formar em administração, kelvin gosta muito de música eletrônica e que montar uma balada de future house, em um bairro que não tem muita movimentação comercial, kelvin resolveu montar seu comércio por amor ao empreendedorismo, porém como tem baixo orçamento resolveu montar seu negócio nessas condições, localização sem movimento e promove entretenimento para um grupo seleto.
+Com o Bora lá Kelvin vai poder abrir sua balada em qualquer lugar sem se preocupar em captar clientes, pois nossa aplicação transcede as barreiras de localização, vamos promover seu estabelecimento independente da localização, e trazendo um público que busca exatamente o que Kelvin vai proporcionar em sua balada, tornando o ambiente assertivo para o cliente e para estabelecimento.
+
+
 
 ## Histórias de Usuários
 

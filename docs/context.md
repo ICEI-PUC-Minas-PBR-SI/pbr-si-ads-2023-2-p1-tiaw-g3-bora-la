@@ -47,12 +47,47 @@ Conectar pessoas a lugares por  categoria: casa de show, bares, igrejas, gênero
 
 ## Justificativa
 
-É nesse contexto que o aplicativo "Bora Lá" entra em cena. Ele se propõe a resolver essas problemáticas fornecendo aos usuários informações detalhadas e em tempo real sobre os locais públicos em sua região. Isso inclui avaliações aprofundadas, fotos e comentários de clientes reais, além de atualizações ao vivo da lotação e das condições dos estabelecimentos. Com essas informações em mãos, os usuários podem tomar decisões mais informadas, escolher locais que atendam às suas preferências e evitar decepções.
+Hoje, vivemos em uma era digital em constante evolução, onde a conectividade e o entretenimento desempenham papéis centrais na vida das pessoas. Diante dessa realidade, propomos a criação do Bora lá, que visa preencher lacunas e atender às necessidades latentes de um público ávido por diversão, cultura e conexões significativas.
 
-Além disso, o "Bora Lá" oferece uma plataforma que dá visibilidade aos negócios locais, independentemente de sua presença na internet. Isso beneficia tanto os consumidores, que têm a oportunidade de descobrir estabelecimentos excepcionais, quanto os negócios, que podem atrair uma audiência mais ampla e melhorar seu gerenciamento.
+Demanda Crescente: A demanda por entretenimento está em constante crescimento principalmente após uma pandemia, e uma rede social dedicada a essa finalidade tem um mercado cativo.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Compartilhamento de Experiências: As pessoas adoram compartilhar suas experiências de entretenimento, compartilhar experiências em bares, restaurantes, baladas e eventos de rua. Nossa rede social permitirá que os usuários compartilhem e descubram novas formas de entretenimento.
+
+Conexões Afins: A paixão pelo entretenimento é um interesse comum que pode unir pessoas. Nossa plataforma permitirá que os usuários se conectem com outros que compartilham seus gostos e interesses.
+
+Descoberta de Conteúdo: Quando se tem muita opção porém elas não são divulgadas da forma adequada, é difícil para os usuários encontrar o que desejam. Nossa rede social oferecerá recursos avançados de recomendação com base nas preferências dos usuários.
+
+Interação ao Vivo: Transmissões ao vivo de eventos de entretenimento, como shows, bares, baladas e eventos tanto fechado quanto aberto proporcionarão experiências interativas e compartilháveis.
+
+Suporte a Criadores de Conteúdo: Ajudaremos criadores de conteúdo a crescerem e monetizarem seus talentos, incentivando a produção de entretenimento de alta qualidade.
+Diversidade Cultural: Nosso foco será na diversidade cultural, promovendo a descoberta de entretenimento global e enriquecedor.
+
+Proteção de Dados: Comprometemo-nos a proteger rigorosamente os dados dos usuários, mantendo a privacidade e a segurança como prioridades.
+
+Comunidade Engajada: Uma rede social de entretenimento proporcionará uma comunidade engajada, onde os usuários poderão discutir, avaliar e comentar sobre seus interesses comuns.
+
+Aprendizado de Máquina: Usaremos aprendizado de máquina para personalizar a experiência do usuário, tornando-a mais relevante e envolvente.
+
+Educação e Informação: Além do entretenimento, nossa rede social também promoverá a educação e a informação, oferecendo insights e análises sobre a cultura do entretenimento.
+
+Inovação Contínua: Comprometemo-nos a evoluir constantemente, incorporando as mais recentes tendências tecnológicas para aprimorar a experiência do usuário.
+
+Acesso Multicanal: Nossa plataforma será acessível em diversas plataformas, como dispositivos móveis, computadores e tabletes, para atender a uma ampla gama de usuários.
+
+Feedback dos Usuários: Valorizaremos o feedback dos usuários e faremos melhorias contínuas com base em suas sugestões e necessidades.
+
+Responsabilidade Social: Promoveremos a responsabilidade social por meio de parcerias com organizações sem fins lucrativos e campanhas de conscientização.
+
+Monetização Sustentável: Planejamos oferecer opções de monetização equitativas tanto para a plataforma quanto para os criadores de conteúdo e estabelecimentos, garantindo sua sustentabilidade.
+
+Acessibilidade Universal: Trabalharemos para garantir que nossa plataforma seja acessível a todas as pessoas, independentemente de suas capacidades físicas ou econômicas.
+
+Criação de Empregos: A construção e operação de nossa rede social gerará oportunidades de emprego na área de tecnologia e entretenimento.
+
+Conexões Globais: Facilitaremos a conexão entre pessoas de diferentes partes do mundo, promovendo a compreensão global por meio do entretenimento.
+Transparência e Ética: Nossa plataforma operará com total transparência e seguirá padrões éticos elevados em todas as operações.
+
+Em resumo, a criação do Bora lá  visa atender à crescente necessidade de conexão, diversão e compartilhamento de experiências na era digital, enquanto promove valores fundamentais de privacidade, diversidade e responsabilidade. Estamos entusiasmados em contribuir para a vida digital de milhões de pessoas e enriquecer o cenário do entretenimento.
 
 ## Público-Alvo
 

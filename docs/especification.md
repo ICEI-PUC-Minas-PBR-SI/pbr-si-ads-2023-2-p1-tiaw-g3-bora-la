@@ -2,15 +2,26 @@
 
 O projeto "Bora Lá" é um aplicativo inovador que aborda a falta de informações atualizadas sobre locais públicos na região. Ele permite aos usuários verificar a lotação, avaliações e fotos de estabelecimentos em tempo real, facilitando a tomada de decisões para um rolê. Além disso, busca beneficiar tanto os negócios locais, fornecendo visibilidade, oferecendo suporte em seu gerenciamento, quanto os clientes facilitando a busca com um suporte de filtros para tomar uma decisão exata no seu rolê. O público-alvo é diversificado, incluindo entusiastas de eventos, gastronomia, cultura, arte, música e esportes, bem como famílias e turistas em busca de experiências locais. O projeto promove a conectividade, diversão e compartilhamento de experiências na era digital, enquanto valoriza princípios de privacidade, diversidade e responsabilidade.
 As ferramentas de desenvolvimento serão:
---> EDITOR; VS CODE.
---> HTML
---> CSS
---> JAVA SCRIPT
---> BOOT STRAP
---> GITHUB CLASS ROOM
---> LOCALSTORAGE
---> CRUD JSON SERVER
 
+#Backend:#
+--> LOCALSTORAGE
+
+--> CRUD JSON SERVER
+#Frontend:#
+--> HTML
+
+--> CSS
+
+--> JAVA SCRIPT
+
+--> BOOT STRAP
+#Editor:#
+
+--> VS CODE
+
+#Versionamento:#
+
+--> GITHUB CLASS ROOM
 
 ## Personas
 

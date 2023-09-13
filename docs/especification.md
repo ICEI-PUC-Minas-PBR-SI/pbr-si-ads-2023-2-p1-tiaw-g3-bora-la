@@ -76,6 +76,19 @@ Graças ao “Bora lá”, Lilian conseguirá ir para estabelecimentos sem ter m
 4- Kelvin, é um jovem de 25 anos que acabou de se formar em administração, kelvin gosta muito de música eletrônica e que montar uma balada de future house, em um bairro que não tem muita movimentação comercial, kelvin resolveu montar seu comércio por amor ao empreendedorismo, porém como tem baixo orçamento resolveu montar seu negócio nessas condições, localização sem movimento e promove entretenimento para um grupo seleto.
 Com o Bora lá Kelvin vai poder abrir sua balada em qualquer lugar sem se preocupar em captar clientes, pois nossa aplicação transcede as barreiras de localização, vamos promover seu estabelecimento independente da localização, e trazendo um público que busca exatamente o que Kelvin vai proporcionar em sua balada, tornando o ambiente assertivo para o cliente e para estabelecimento.
 
+5- Nome: Fiory Flare<br/>
+Idade: 40<br/>
+Estado Civil: Solteiro<br/>
+País: Afeganistão<br/>
+Estilo de Vida: sou uma pessoa reservada, apaixonada por tecnologia, amante de animes.<br/>
+Não Fumante<br/>
+
+Fiory Flare é uma pessoa de outro país que está afim de dar um rolê. Mas ele não conhece nada, nem ninguém aqui no brasil. Quero me conectar a outras pessoas que dão match com o meu perfil, que não fume, que goste de fazer novas amizades e que goste dos mesmos ambientes de rolê que eu.<br/>
+
+Por ser de outro país, eu tenho bastante dificuldade de encontrar ambientes para dar um rolê e o aplicativo bora lá é o divisor de águas para me conectar com lugares bem legais.<br/>
+
+Ambientes de rolê: palestras, shows e eventos cristãos, barziznhos com um ambiente mais familiar, pontos turísticos.<br/>
+
 
 
 ## Histórias de Usuários

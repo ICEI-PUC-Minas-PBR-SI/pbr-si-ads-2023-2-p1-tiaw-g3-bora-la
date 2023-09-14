@@ -124,6 +124,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA | |
 |RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | |
 |RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | |
+|RF-010|A interface deve ser projetada de acordo com as diretrizes de acessibilidade.| BAIXA | |
 
 
 
@@ -131,14 +132,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O aplicativo deve ser rápido e responsivo, mesmo em áreas com conexões de internet mais lentas. | ALTA | 
+|RNF-001| O aplicativo deve ser rápido e responsivo, com um tempo médio de resposta de no máximo 2 segundos em todas as funcionalidades, mesmo em áreas com conexões de internet mais lentas. | ALTA | 
 |RNF-002| O aplicativo deve cumprir todas as regulamentações relevantes de privacidade e segurança de dados. |  ALTA | 
 |RNF-003| O aplicativo deve ser capaz de lidar com um grande número de usuários e locais cadastrados à medida que cresce. |  ALTA | 
 |RNF-004| Deve ser compatível com dispositivos iOS e Android, bem como navegadores da web. |  ALTA | 
 |RNF-005| A interface do usuário deve ser intuitiva e fácil de usar, para atender a uma ampla gama de usuários, incluindo aqueles que não são tecnicamente experientes. |  ALTA | 
 |RNF-006| O aplicativo deve estar disponível 24/7 para atender às necessidades dos usuários em diferentes horários.|  MÉDIA | 
 |RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | 
-|RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA | 
+|RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA |
+|RNF-009| O aplicativo deve ter um sistema de alerta e relato de incidentes. |  BAIXA |
 
 
 ## Restrições

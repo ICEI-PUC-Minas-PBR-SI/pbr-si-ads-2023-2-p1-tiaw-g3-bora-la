@@ -161,16 +161,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O aplicativo deve ser compatível com dispositivos móveis que executam sistemas operacionais iOS e Android. |
-|02| O aplicativo deve ser rápido e responsivo, com um tempo médio de resposta de no máximo 2 segundos em todas as funcionalidades, mesmo em áreas com conexões de internet mais lentas o  sistema deve ser capaz de suportar um aumento significativo no tráfego de usuários e locais à medida que cresce, sem comprometer o desempenho. |
-|03| O aplicativo deve cumprir todas as regulamentações de privacidade de dados relevantes, como o Regulamento Geral de Proteção de Dados (RGPD).|
-|04| As senhas dos usuários devem ser armazenadas de forma segura, usando técnicas de hash e salting, os dados pessoais dos usuários, como nome, e-mail e informações de pagamento, devem ser criptografados durante a transmissão e o armazenamento, deve haver mecanismos de autenticação e autorização robustos para proteger o acesso não autorizado às contas dos usuários.|
-|05| O aplicativo deve ter um sistema de alerta e relato de incidentes, incluindo casos de assédio, campanhas de conscientização para garantir a segurança dos usuários.|
-|06|Deve ser implementado um plano de manutenção regular para corrigir bugs, atualizar informações e adicionar novos recursos conforme necessário, o sistema deve ter um sistema de backup e recuperação de dados para garantir que os dados não sejam perdidos em caso de falhas.|
-|07| A interface do usuário deve ser projetada de acordo com as diretrizes de acessibilidade, tornando-a utilizável por pessoas com deficiências visuais, auditivas ou de mobilidade, deve ser fornecida a opção de aumentar o tamanho da fonte e fornecer descrições alternativas para imagens.|
-|08| O aplicativo deve ser localizado para vários idiomas para atender a uma audiência global, a localização deve incluir adaptações culturais e regionais nas informações e conteúdo apresentados.|
-|09| O aplicativo deve ser compatível com as versões mais recentes dos principais navegadores da web (Chrome, Firefox, Safari, Edge, etc.).|
-|10| O aplicativo deve ser executado em dispositivos móveis com pelo menos 1 GB de RAM e processadores dual-core ou superiores.|
+|01| O projeto deverá ser entregue até o final do semestre |
+|02| Não pode ser desenvolvido um módulo de backend        |
+|03| O projeto deverá cumprir todas as exigências da Lei geral de proteção de dados (LGPD)|
+|04| A equipe terá maior disponibilidade nos finais de semana|
+|05| O projeto exigirá um email ativo para a criação de cadastro|
+|06| O projeto exigirá recursos de localização|
+|07| O projeto não terá custo na parte de frontend|
+|08| O projeto deverá ser desenvolvido nas liguagens Html, CSS, Java Script, Boot strap|
+|09| A equipe usará a plataforma Teams para as reuniões do projeto|
+|10| A equipe usará aplataforma de streaming Youtube para postar os vídeos do projeto|
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.

@@ -74,9 +74,21 @@ Através do “bora lá”, por conta dos usuários compartilhar informações e
 Graças ao “Bora lá”, Lilian conseguirá ir para estabelecimentos sem ter medo de sofrer qualquer ameaça ou assédio.
 
 ________________________________________
-**4-** Kelvin, é um jovem de 25 anos que acabou de se formar em administração, kelvin gosta muito de música eletrônica e que montar uma balada de future house, em um bairro que não tem muita movimentação comercial, kelvin resolveu montar seu comércio por amor ao empreendedorismo, porém como tem baixo orçamento resolveu montar seu negócio nessas condições, localização sem movimento e promove entretenimento para um grupo seleto.
-Com o Bora lá Kelvin vai poder abrir sua balada em qualquer lugar sem se preocupar em captar clientes, pois nossa aplicação transcede as barreiras de localização, vamos promover seu estabelecimento independente da localização, e trazendo um público que busca exatamente o que Kelvin vai proporcionar em sua balada, tornando o ambiente assertivo para o cliente e para estabelecimento.
+**4-** Nome: Kaique Maia
+Idade: 20 anos
+Estilo de vida anterior: Universitário, trabalha em regime CLT em um trabalho onde se sente muito frustado
+Estilo de vida atual: Empreendedor e proprietário de um novo negócio de entretenimento e eventos, conseguiu alcançar independência financeira com seu próprio negócio
 
+Kaique é um jovem empreendedor de 20 anos que sempre teve uma paixão pelo mundo do entretenimento e da música. Ele está cursando a faculdade de Gestão de Negócios e decidiu seguir seu sonho de deixar de trabalhar no regime CLT e abrir sua própria empresa de organização de festas, shows e eventos. Entretanto, Kaique tem um orçamento baixo para investir nesse sonho, pois não recebe um salário muito bom, e precisou montar seu estabelecimento em um local sem muito movimento, longe do centro da cidade. Pesquisando possíveis soluções para melhorar o alcance de público do seu estabelecimento, Kaique conheceu o Bora lá que o possibilitou promover seu estabelecimento e captar clientes de toda a cidade, pois o aplicativo transcede as barreiras de localização, trazendo um público que busca exatamente o que Kaique vai proporcionar em seu novo empreendimento, tornando o ambiente assertivo para o cliente e para estabelecimento. Com determinação, criatividade e o mais importante: com a ajuda do Bora Lá, ele finalmente está pronto para embarcar nessa jornada empreendedora!
+
+Uso do Aplicativo:
+Kaique vê o Bora Lá não apenas como uma ferramenta fundamental para divulgar seu novo negócio mas também como a melhor forma de entender as principais melhorias que deve realizar em seu estabelecimento pois consegue ter acesso a avaliações feitas por seus clientes, assim, sabe exatamente como proporcionar um ambiente ainda mais agradável para seu público. Ele também usa o aplicativo para criar listagens detalhadas dos eventos que organiza, incluindo informações sobre datas, atrações e avaliações anteriores. Além disso, ele interage com a comunidade do aplicativo, compartilhando informações sobre seus eventos e promovendo-os para um público mais amplo.
+Agora, usando o Bora Lá, Kaique irá conseguir:
+•	Estabelecer sua empresa de eventos como uma marca reconhecida na região.
+•	Atrair um público fiel e crescente para seus eventos.
+•	Oferecer experiências únicas e inesquecíveis em todas as festas que organiza.
+•	Desenvolver parcerias estratégicas com fornecedores e patrocinadores.
+•	Continuar aprendendo e crescendo como empreendedor no setor de eventos e entretenimento.
 ________________________________________
 **5-** Nome: Fiory Flare<br/>
 Idade: 40<br/>

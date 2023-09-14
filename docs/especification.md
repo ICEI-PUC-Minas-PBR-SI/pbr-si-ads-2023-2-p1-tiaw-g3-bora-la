@@ -3,13 +3,13 @@
 O projeto "Bora Lá" é um aplicativo inovador que aborda a falta de informações atualizadas sobre locais públicos na região. Ele permite aos usuários verificar a lotação, avaliações e fotos de estabelecimentos em tempo real, facilitando a tomada de decisões para um rolê. Além disso, busca beneficiar tanto os negócios locais, fornecendo visibilidade, oferecendo suporte em seu gerenciamento, quanto os clientes facilitando a busca com um suporte de filtros para tomar uma decisão exata no seu rolê. O público-alvo é diversificado, incluindo entusiastas de eventos, gastronomia, cultura, arte, música e esportes, bem como famílias e turistas em busca de experiências locais. O projeto promove a conectividade, diversão e compartilhamento de experiências na era digital, enquanto valoriza princípios de privacidade, diversidade e responsabilidade.
 As ferramentas de desenvolvimento serão:
 
-## Backend:
+### Backend:
 
 --> LOCALSTORAGE
 
 --> CRUD JSON SERVER
 
-## Frontend:
+### Frontend:
 
 --> HTML
 
@@ -19,17 +19,17 @@ As ferramentas de desenvolvimento serão:
 
 --> BOOT STRAP
 
-## Editor:
+### Editor:
 
 --> VS CODE
 
-## Versionamento:
+### Versionamento:
 
 --> GITHUB CLASS ROOM
 
 ## Personas
 
-1- Nome: Thiago<br/>
+**1-** Nome: Thiago<br/>
 Idade: 25 anos<br/>
 Estado Civil: Casado com Vitória<br/>
 Estilo de Vida Anterior: Solteiro, vida social ativa em bares e boates<br>
@@ -52,8 +52,8 @@ Ele pode ler avaliações e comentários de outros pais que visitaram esses loca
 
 No geral, o "Bora Lá" tornou a transição de Thiago de sua vida de solteiro para a vida em família muito mais suave, fornecendo-lhe as ferramentas necessárias para encontrar lugares que todos possam desfrutar. Agora, Thiago e sua nova família podem criar memórias especiais e aproveitar seu tempo juntos de uma maneira totalmente nova e significativa.
 <br/>
-
-2-Reinaldo sempre foi conhecido como o "recluso" em seu bairro. Sua ansiedade social o mantinha dentro de casa na maior parte do tempo, longe do tumulto do mundo exterior. Ele ansiava por conexões humanas, mas o medo de conhecer novas pessoas o paralisava.
+________________________________________
+**2-** Reinaldo sempre foi conhecido como o "recluso" em seu bairro. Sua ansiedade social o mantinha dentro de casa na maior parte do tempo, longe do tumulto do mundo exterior. Ele ansiava por conexões humanas, mas o medo de conhecer novas pessoas o paralisava.
 
 Um dia, enquanto navegava na internet em busca de soluções para sua solidão, Reinaldo se deparou com um aplicativo chamado "Bora Lá". Era uma plataforma que prometia ajudar pessoas introvertidas a encontrar lugares interessantes e eventos sociais para participar, de forma gradual e confortável.
 
@@ -66,17 +66,19 @@ No dia do evento, Reinaldo estava nervoso, mas decidiu enfrentar seus medos. Ele
 Nos meses seguintes, Reinaldo usou o "Bora Lá" para explorar sua cidade e conhecer novas pessoas. Sua ansiedade ainda o acompanhava, mas ele aprendeu a lidar com ela gradualmente. Ele percebeu que o mundo lá fora era cheio de oportunidades e conexões esperando por ele.
 
 A jornada de Reinaldo não foi fácil, mas ele finalmente conseguiu superar sua ansiedade social e se tornar uma pessoa mais confiante e sociável. Tudo isso graças a um aplicativo que o encorajou a dar o primeiro passo para sair de sua zona de conforto e abraçar o mundo ao seu redor.
-
-3- Lilian é uma jovem adulta de 21 anos, atualmente é universitária e se encontra no quarto período em odontologia pela pontifícia universidade católica de minas gerais, no campus da Praça da liberdade. bonita, solteira, bastante alegre, extrovertida, adora conversar com suas amigas, conhecer novos lugares,  pessoas e ter uma boa conversa em  um ambiente alegre e descontraído.Por conta disso, sempre que possível, suas colegas e amigas a chamam para ir a algum estabelecimento para festejar, beber ou conversar, mas sempre acaba recusando. Apesar de gostar muito de ir em festas, ela possui muito receio de sair para festas mais movimentadas e sem companhias por conta de já ter sofrido com assédio no passado, por conta disso ela se abstém de ir em festas ou locais mesmo que ela queira muito ir. 
+________________________________________
+**3-** Lilian é uma jovem adulta de 21 anos, atualmente é universitária e se encontra no quarto período em odontologia pela pontifícia universidade católica de minas gerais, no campus da Praça da liberdade. bonita, solteira, bastante alegre, extrovertida, adora conversar com suas amigas, conhecer novos lugares,  pessoas e ter uma boa conversa em  um ambiente alegre e descontraído.Por conta disso, sempre que possível, suas colegas e amigas a chamam para ir a algum estabelecimento para festejar, beber ou conversar, mas sempre acaba recusando. Apesar de gostar muito de ir em festas, ela possui muito receio de sair para festas mais movimentadas e sem companhias por conta de já ter sofrido com assédio no passado, por conta disso ela se abstém de ir em festas ou locais mesmo que ela queira muito ir. 
 
 Através do “bora lá”, por conta dos usuários compartilhar informações em tempo real, ela vai poder saber se o local possui segurança, se houve casos de assédio neste estabelecimento durante o dia, e qual é o perfil de pessoas presentes no local, assim podendo realmente se precaver de ir para um possível local que possui riscos de ser assediada ou ter mais segurança para ir em locais que julgar ser mais seguro segundo o feedback de usuárias que também podem ter esse mesmo tipo de medo. Além disso, o “Bora lá” possui mecanismo de alerta de ocorrências de assédio tanto para o estabelecimento estar ciente da situação e poder tomar uma atitude, e até mesmo um alerta que é notificado diretamente para órgão governamentais de segurança pública, como a polícia militar e guardas municipais em casos mais graves, para que o assediador seja preso.
 
 Graças ao “Bora lá”, Lilian conseguirá ir para estabelecimentos sem ter medo de sofrer qualquer ameaça ou assédio.
 
-4- Kelvin, é um jovem de 25 anos que acabou de se formar em administração, kelvin gosta muito de música eletrônica e que montar uma balada de future house, em um bairro que não tem muita movimentação comercial, kelvin resolveu montar seu comércio por amor ao empreendedorismo, porém como tem baixo orçamento resolveu montar seu negócio nessas condições, localização sem movimento e promove entretenimento para um grupo seleto.
+________________________________________
+**4-** Kelvin, é um jovem de 25 anos que acabou de se formar em administração, kelvin gosta muito de música eletrônica e que montar uma balada de future house, em um bairro que não tem muita movimentação comercial, kelvin resolveu montar seu comércio por amor ao empreendedorismo, porém como tem baixo orçamento resolveu montar seu negócio nessas condições, localização sem movimento e promove entretenimento para um grupo seleto.
 Com o Bora lá Kelvin vai poder abrir sua balada em qualquer lugar sem se preocupar em captar clientes, pois nossa aplicação transcede as barreiras de localização, vamos promover seu estabelecimento independente da localização, e trazendo um público que busca exatamente o que Kelvin vai proporcionar em sua balada, tornando o ambiente assertivo para o cliente e para estabelecimento.
 
-5- Nome: Fiory Flare<br/>
+________________________________________
+**5-** Nome: Fiory Flare<br/>
 Idade: 40<br/>
 Estado Civil: Solteiro<br/>
 País: Afeganistão<br/>
@@ -97,17 +99,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Uma mãe que deseja encontrar locais familiares  | me cadastrar no "Bora Lá" e criar um perfil personalizado | planejar nossas saídas em família de forma mais informada e segura.  |
+|Dono de um restaurante local   | me cadastrar no "Bora Lá" e criar um perfil do meu estabelecimento e compartilhar informações sobre nosso menu e eventos especiais   |que mais clientes em potencial saibam sobre o que oferecemos |
+|  Um estudante que gosta de experimentar novos restaurantes |  usar a pesquisa no "Bora Lá" para encontrar restaurantes próximos à minha localização atual | que eu possa descobrir opções de jantar perto de mim   |
+|  Um entusiasta de esportes |  deixar avaliações e comentários sobre os bares esportivos que visitei no "Bora Lá" para compartilhar minha experiência com outros fãs | que eles possam fazer escolhas informadas  |
+| Um pai que adora piqueniques  |  usar o "Bora Lá" para verificar a lotação atual do parque que planejo visitar com minha família |   evitar multidões e aproveitar mais nosso tempo juntos  |
+|  Organizador de eventos corporativos | nosso centro de conferências seja facilmente localizável no mapa dentro do "Bora Lá"  | que  as empresas que planejam eventos possam nos encontrar facilmente e considerar nossa localização |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -121,12 +119,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA | |
 |RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | |
 |RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | |
-|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| MÉDIA | |
+|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA | |
 |RF-006| Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais, como adequação para crianças, opções vegetarianas, acessibilidade, etc.| ALTA | |
 |RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA | |
 |RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | |
-|RF-009| Os usuários podem compartilhar avaliações, fotos e recomendações em mídias sociais.| ALTA | |
-|RF-010| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | |
+|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | |
 
 
 
@@ -134,7 +131,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O aplicativo deve ser rápido e responsivo, mesmo em áreas com conexões de internet mais lentas. | MÉDIA | 
+|RNF-001| O aplicativo deve ser rápido e responsivo, mesmo em áreas com conexões de internet mais lentas. | ALTA | 
 |RNF-002| O aplicativo deve cumprir todas as regulamentações relevantes de privacidade e segurança de dados. |  ALTA | 
 |RNF-003| O aplicativo deve ser capaz de lidar com um grande número de usuários e locais cadastrados à medida que cresce. |  ALTA | 
 |RNF-004| Deve ser compatível com dispositivos iOS e Android, bem como navegadores da web. |  ALTA | 
@@ -143,21 +140,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | 
 |RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA | 
 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 

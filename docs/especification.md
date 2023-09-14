@@ -74,21 +74,21 @@ Através do “bora lá”, por conta dos usuários compartilhar informações e
 Graças ao “Bora lá”, Lilian conseguirá ir para estabelecimentos sem ter medo de sofrer qualquer ameaça ou assédio.
 
 ________________________________________
-**4-** Nome: Kaique Maia</br>
-Idade: 20 anos</br>
+**4-** Nome: Kaique Maia </br>
+Idade: 20 anos </br>
 Estilo de vida anterior: Universitário, trabalha em regime CLT em um trabalho onde se sente muito frustado </br>
-Estilo de vida atual: Empreendedor e proprietário de um novo negócio de entretenimento e eventos, conseguiu alcançar independência financeira com seu próprio negócio</br>
+Estilo de vida atual: Empreendedor e proprietário de um novo negócio de entretenimento e eventos, conseguiu alcançar independência financeira com seu próprio negócio </br>
 
-Kaique é um jovem empreendedor de 20 anos que sempre teve uma paixão pelo mundo do entretenimento e da música. Ele está cursando a faculdade de Gestão de Negócios e decidiu seguir seu sonho de deixar de trabalhar no regime CLT e abrir sua própria empresa de organização de festas, shows e eventos. Entretanto, Kaique tem um orçamento baixo para investir nesse sonho, pois não recebe um salário muito bom, e precisou montar seu estabelecimento em um local sem muito movimento, longe do centro da cidade. Pesquisando possíveis soluções para melhorar o alcance de público do seu estabelecimento, Kaique conheceu o Bora lá que o possibilitou promover seu estabelecimento e captar clientes de toda a cidade, pois o aplicativo transcede as barreiras de localização, trazendo um público que busca exatamente o que Kaique vai proporcionar em seu novo empreendimento, tornando o ambiente assertivo para o cliente e para estabelecimento. Com determinação, criatividade e o mais importante: com a ajuda do Bora Lá, ele finalmente está pronto para embarcar nessa jornada empreendedora!</br>
+Kaique é um jovem empreendedor de 20 anos que sempre teve uma paixão pelo mundo do entretenimento e da música. Ele está cursando a faculdade de Gestão de Negócios e decidiu seguir seu sonho de deixar de trabalhar no regime CLT e abrir sua própria empresa de organização de festas, shows e eventos. Entretanto, Kaique tem um orçamento baixo para investir nesse sonho, pois não recebe um salário muito bom, e precisou montar seu estabelecimento em um local sem muito movimento, longe do centro da cidade. Pesquisando possíveis soluções para melhorar o alcance de público do seu estabelecimento, Kaique conheceu o Bora lá que o possibilitou promover seu estabelecimento e captar clientes de toda a cidade, pois o aplicativo transcede as barreiras de localização, trazendo um público que busca exatamente o que Kaique vai proporcionar em seu novo empreendimento, tornando o ambiente assertivo para o cliente e para estabelecimento. Com determinação, criatividade e o mais importante: com a ajuda do Bora Lá, ele finalmente está pronto para embarcar nessa jornada empreendedora! </br>
 
-Uso do Aplicativo:</br> 
+Uso do Aplicativo: </br> 
 Kaique vê o Bora Lá não apenas como uma ferramenta fundamental para divulgar seu novo negócio mas também como a melhor forma de entender as principais melhorias que deve realizar em seu estabelecimento pois consegue ter acesso a avaliações feitas por seus clientes, assim, sabe exatamente como proporcionar um ambiente ainda mais agradável para seu público. Ele também usa o aplicativo para criar listagens detalhadas dos eventos que organiza, incluindo informações sobre datas, atrações e avaliações anteriores. Além disso, ele interage com a comunidade do aplicativo, compartilhando informações sobre seus eventos e promovendo-os para um público mais amplo.</br>
-Agora, usando o Bora Lá, Kaique irá conseguir:</br>
+Agora, usando o Bora Lá, Kaique irá conseguir: </br>
 •	Estabelecer sua empresa de eventos como uma marca reconhecida na região.</br>
 •	Atrair um público fiel e crescente para seus eventos.</br>
 •	Oferecer experiências únicas e inesquecíveis em todas as festas que organiza.</br>
 •	Desenvolver parcerias estratégicas com fornecedores e patrocinadores.</br>
-•	Continuar aprendendo e crescendo como empreendedor no setor de eventos e entretenimento.
+•	Continuar aprendendo e crescendo como empreendedor no setor de eventos e entretenimento.</br>
 ________________________________________
 **5-** Nome: Fiory Flare<br/>
 Idade: 40<br/>

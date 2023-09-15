@@ -42,8 +42,7 @@ Conectar pessoas a lugares por  categoria: casa de show, bares, igrejas, gênero
 
 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
@@ -94,9 +93,3 @@ Em resumo, a criação do Bora lá  visa atender à crescente necessidade de con
 O público-alvo do BORA LA é diversificado e abrange diversas faixas etárias de pessoas ansiosas para explorar novos roles em busca de entretenimento e experiências únicas sem perder tempo com locais que não atendem às suas expectativas. Esse aplicativo será atraente para os entusiastas de eventos e gastronomia que valorizam não apenas a conveniência, mas também a qualidade, seja descobrindo novos lugares para comer ou participando de eventos de musica, cultura, entre outros, na cidade. Familias tambem podem ser um público importante, buscando eventos familiares, festivais locais e atividades que envolvam crianças. Nós valorizamos informações sobre eventos que proporcionem diversão para toda a tamilia.
 Além disso, entusiastas de cultura, arte e música, bem como indivíduos interessados em eventos esportivos, também seriam parte do público-alvo. Turistas que desejam explorar a cidade durante sua estadia também podem utilizar o site para encontrar eventos locais interessantes.
 Em resumo, o publico-alvo de um site de localização e avaliação de eventos é diversificado e inclui jovens adultos em busca de entretenimento, amantes da gastronomia, famílias, profissionais ocupados, entusiastas de cultura, arte, musica e esportes, bem como turistas em busca de experiencias locais durante suas viagens.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)

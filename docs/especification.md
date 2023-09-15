@@ -97,9 +97,9 @@ País: Afeganistão<br/>
 Estilo de Vida: sou uma pessoa reservada, apaixonada por tecnologia, amante de animes.<br/>
 Não Fumante<br/>
 
-Fiory Flare é uma pessoa de outro país que está afim de dar um rolê. Mas ele não conhece nada, nem ninguém aqui no brasil. Quero me conectar a outras pessoas que dão match com o meu perfil, que não fume, que goste de fazer novas amizades e que goste dos mesmos ambientes de rolê que eu.<br/>
+Fiory Flare é uma pessoa de outro país que está afim de dar um rolê. Mas ele não conhece nada, nem ninguém aqui no brasil. </br>"Quero me conectar a outras pessoas que dão match com o meu perfil, que não fume, que goste de fazer novas amizades e que goste dos mesmos ambientes de rolê que eu."<br/>
 
-Por ser de outro país, eu tenho bastante dificuldade de encontrar ambientes para dar um rolê e o aplicativo bora lá é o divisor de águas para me conectar com lugares bem legais.<br/>
+"Por ser de outro país, eu tenho bastante dificuldade de encontrar ambientes para dar um rolê e o aplicativo bora lá é o divisor de águas para me conectar com lugares bem legais."<br/>
 
 Ambientes de rolê: palestras, shows e eventos cristãos, barziznhos com um ambiente mais familiar, pontos turísticos.<br/>
 

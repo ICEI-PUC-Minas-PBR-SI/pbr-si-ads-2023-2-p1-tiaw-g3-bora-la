@@ -17,7 +17,7 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 ## Tipografia
 
-O site usa a fonte "Roboto Mono" em todo o conteudo da tela exeto o rodapé, no ropé usamos arial.
+O site usa a fonte "Roboto Mono" em todo o conteudo da tela exeto o rodapé, no ropé usamos "Arial".
 
 
 ## Iconografia

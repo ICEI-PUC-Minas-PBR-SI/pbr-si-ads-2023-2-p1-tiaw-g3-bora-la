@@ -6,9 +6,10 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
-
-
+O layout do site seguirá um padrão responsivo, com a seguinte estrutura:
+Cabeçalho (Header): Inclui o logotipo do site e a barra de navegação, botões de conexões e rolês botão/foto de perfil.
+Área de Conteúdo (Main Content): Exibe carrosseis de cards de cada opção de rolê de acordo com a pesquisa ou filtragem, no conteudo de conexões exibem vlogs com duração de 6 horas dos rolês  na qual sua conexão estava.
+Rodapé (Footer): Contém informações adicionais, como direitos autorais e informações de contato.
 ## Cores
 
 Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).

@@ -25,7 +25,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
 
-![Exemplo de Wireframe](img/docs/teladeloggin.JPG)
+![Exemplo de Wireframe](docs/img/teladeloggin.JPG)
 
 
  

@@ -22,10 +22,15 @@ O site usa a fonte "Roboto Mono" em todo o conteudo da tela exeto o rodapé, no 
 
 ## Iconografia
 
-Defina os ícones que serão utilizados e suas respectivas funções.
-
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
+O site usará os seguintes ícones:
+Pesquisa.
+O incone de nova publicação.
+cards de opções de locais.
+botão de configuração.
+mapa.
+etrela de avaliação.
+gráficos.
+Menu.
 
 
 > **Links Úteis**:

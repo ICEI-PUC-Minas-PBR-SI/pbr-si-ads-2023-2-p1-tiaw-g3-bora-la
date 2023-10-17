@@ -25,7 +25,63 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
 
+Tela de Login dos usuários
+
 ![Exemplo de Wireframe](teladeloggin.JPG)
+  
+  Tela de Cadastro
+
+  
+![Exemplo de Wireframe](cadastro.JPG)
+  
+  Tela de Recuperação de senha
+
+![Exemplo de Wireframe](telarecuperação.JPG)
+  
+  Feed contendo os estabelecimentos e festas de sua região
+
+![Exemplo de Wireframe](feedsrole.JPG)
+  
+  feed contendo fotos e videos de suas conexões(amigos)
+
+![Exemplo de Wireframe](feedconexões.JPG)
+  
+  Tela com informações do estabelecimento
+
+![Exemplo de Wireframe](informaçoesestabelecimento.JPG)
+
+  Tela de perfil do usuário
+  
+![Exemplo de Wireframe](perfilusuario.JPG)
+
+  Modal com chat de texto
+  
+![Exemplo de Wireframe](modalchat.JPG)
+
+  Botão com mais opções
+
+![Exemplo de Wireframe](botãoperfil.JPG)
+
+  Feed de contas de empreendedores
+
+![Exemplo de Wireframe](feedempreendedor.JPG)
+
+  Dashboard para empreendedores
+
+![Exemplo de Wireframe](dashboardlojistas.JPG)
+
+  Avaliações dos usuários
+
+![Exemplo de Wireframe](avaliações.JPG)
+
+
+
+
+
+
+
+
+
 
 
  

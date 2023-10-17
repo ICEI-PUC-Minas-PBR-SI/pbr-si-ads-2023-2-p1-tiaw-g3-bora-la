@@ -11,6 +11,7 @@ Rodapé (Footer): Contém informações adicionais, como direitos autorais e inf
 
 Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 
+![Exemplo paleta de cores](paleta.jpeg)
 
 ## Tipografia
 

@@ -4,16 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página com Gradient Retrowave no Fundo</title>
+    <meta name="author" content="Benjamim Oliveira">
+    <meta name="description" content="tela de Login">
+    <title>Cadastre-se</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="template.css">
+    <link rel="stylesheet" href="borala.css">
     <style>
         body {
             background: linear-gradient(135deg, #ff5100, #001455, #ff00dd);
-            background-size: 200% 200%;
+            background-size: 200%;
             animation: gradient 10s ease infinite;
-            margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
         }
@@ -47,22 +48,26 @@
             border-radius: 3px;
         }
 
-        .form-group button {
-            padding: 10px;
-            background: #007BFF;
-            color: #fff;
-            border: none;
-            border-radius: 50px; /* Adicionando borda circular */
-            cursor: pointer;
-        }
-
+       
+        .btn-entrar {
+    padding: 10px;
+    background: linear-gradient(135deg, #ff5100, #001455);
+    animation: gradient 10s ease infinite;
+    color: #fff;
+    border: none;
+    border-radius: 50px; /* Borda circular */
+    cursor: pointer;
+    font-weight: bold;
+}
         .btn-cadastro {
             padding: 12px; /* Ajuste o tamanho do botão de cadastro aqui */
-            background: #007BFF;
+            background: linear-gradient(135deg, #001485, #ff00ff);
+            animation: gradient 10s ease infinite;
             color: #fff;
             border: none;
             border-radius: 50px; /* Borda circular */
             cursor: pointer;
+            font-weight: bold;
         }
 
         .carousel {
@@ -83,23 +88,36 @@
                 <img class="logocenter" src="logo.jpg" width="150px" alt="logo">
                 <h1>Bem Vindos ao Bora lá</h1>
                 <p>Sua nova janela de role!</p>
+                <div>
+                    <img src="playstore.png" width="100px" alt="playstore">
+                    <img src="applestore.webp" width="100px" alt="applestore">
+
+                </div>
             </div>
             <div class="col-md-6">
                 <div class="card bg-dark">
-                    <h2 class="text-white">Login</h2>
+                    <h2 class="text-white">Cadastro</h2>
                     <form>
                         <div class="form-group">
-                            <input class="mt-5" type="text" placeholder="Usuário">
+                            <input class="mt-3" type="text" placeholder="Nome e sobrenome/CNPJ (Para donos de estabelecimentos)">
+                        </div>
+                        <div class="form-group">
+                            <input class="mt-3" type="text" placeholder="endereço de e-mail">
+                        </div>
+                        <div class="form-group">
+                            <input class="mt-3" type="text" placeholder="N° do celular">
+                        </div>
+                        <div class="form-group">
+                            <input class="mt-3" type="text" placeholder="Crie um nome de Usuário, ex @rolezeiro/Nome do estabelecimento">
                         </div>
                         <div class="form-group">
                             <input class="mt-3" type="password" placeholder="Senha">
                         </div>
-                        <div class="form-group d-flex justify-content-between align-items-center">
-                            <a href="#">Esqueceu sua senha?</a>
-                            <button class="mt-3" type="submit">Entrar</button>
-                        </div>
                         <div class="form-group">
-                            <button class="mt-3 btn-cadastro btn-lg" type="submit">Cadastro</button>
+                            <input class="mt-3" type="password" placeholder="Confirme sua Senha">
+                        </div>
+                        <div class="form-group mt-5">
+                            <a href="borala.html" class="mt-3 btn-cadastro btn-lg">Login</a>
                         </div>
                     </form>
                 </div>
@@ -140,6 +158,16 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<footer class="bg-dark text-white text-center mt-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <p>&copy; 2023 Baroli Work Development Company. Todos os direitos reservados.</p>
+                <p>Contato: borala@baroliwork.com</p>
+            </div>
+        </div>
+    </div>
+</footer>
 </body>
 
 </html>

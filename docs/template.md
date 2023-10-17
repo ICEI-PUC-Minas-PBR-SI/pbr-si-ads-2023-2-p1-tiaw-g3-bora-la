@@ -17,7 +17,7 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+O site usa a fonte "Roboto Mono" em todo o conteudo da tela exeto o rodapé, no ropé usamos arial.
 
 
 ## Iconografia

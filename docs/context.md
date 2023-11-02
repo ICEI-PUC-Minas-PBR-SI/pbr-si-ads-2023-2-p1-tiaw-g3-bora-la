@@ -2,7 +2,7 @@
 
 Bem-vindo ao Bora Lá, a sua janela em tempo real para o mundo ao seu redor! Com o nosso aplicativo inovador, você terá acesso imediato a informações cruciais sobre os locais públicos em sua região. Não precisa mais se preocupar com a incerteza de como estão os bares, restaurantes e outros lugares, porque nós fornecemos todas as informações que você precisa para tomar decisões informadas e aproveitar ao máximo o seu tempo.
 
-Imagine poder verificar a lotação de bares, restaurantes, entre outros pontos comerciais antes de sair de casa, fazer conexões com quem deseja, ou até mesmo decidir onde jantar baseado em avaliações, fotos e comentários de outros clientes. Com Bora Lá, isso é totalmente possível! Nossa plataforma permite que você veja em tempo real se um lugar está movimentado ou tranquilo, para que você possa escolher o ambiente que se adequa ao seu humor.
+Imagine poder verificar a lotação de bares, restaurantes, até mesmo eventos e pontos comerciais antes de sair de casa, fazer conexões com quem deseja, ou até mesmo decidir onde jantar baseado em avaliações, fotos e comentários de outros clientes. Com Bora Lá, isso é totalmente possível! Nossa plataforma permite que você veja em tempo real se um lugar está movimentado ou tranquilo, para que você possa escolher o ambiente que se adequa ao seu humor.
 
 Com nosso projeto, beneficiamos tanto o comércio quanto a clientela, dando visibilidade do seu negócio à todos, independente de sua localização. Através de fotos, atualizações ao vivo da lotação, dando de certa forma um suporte em seu gerenciamento. Entrando em parceria com nossa organização você terá tudo isso e um pouco mais, entre em contato conosco!
 

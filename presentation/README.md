@@ -13,7 +13,7 @@ O conjunto de slides deve ser apresentado em um arquivo PowerPoint ou PDF. A apr
 
 ## Título do Projeto
 
-Nome / Marca do projeto
+Nome e Marca do projeto
 
 ## Identidade Visual (Marca, Design)
 

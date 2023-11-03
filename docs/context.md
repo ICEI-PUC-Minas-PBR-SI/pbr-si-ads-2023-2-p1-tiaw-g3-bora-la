@@ -35,6 +35,7 @@ Conectar pessoas a lugares por  categoria: casa de show, bares, igrejas, gênero
 
 ·	Ver o rolê antes de sair de casa;
 
+· Trazer uma melhor ambientação para o usuário;
 
 ·	Conexão;
 

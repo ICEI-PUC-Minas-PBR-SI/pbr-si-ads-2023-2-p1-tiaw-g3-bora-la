@@ -12,7 +12,7 @@ Prepare-se para tomar decisões mais inteligentes e explorar sua região como nu
 
 ## Problema
 
-O aplicativo "Bora Lá" surge como uma solução inovadora para uma problemática que afeta muitos de nós: a falta de informações confiáveis e atualizadas sobre locais públicos em nossa região. Com a crescente dependência de sites como o Google e o Sympla para obter informações sobre bares, restaurantes e eventos, muitas vezes nos deparamos com avaliações superficiais e desatualizadas que não refletem a realidade. Esta problemática se manifesta de diversas maneiras e pode resultar em experiências insatisfatórias ao sair de casa.
+O aplicativo "Bora Lá" surge como uma solução inovadora para uma problemática que afeta maior parte dos rolezeiros: a falta de informações confiáveis e atualizadas sobre locais públicos em nossa região. Com a crescente dependência de sites como o Google e o Sympla para obter informações sobre bares, restaurantes e eventos, muitas vezes nos deparamos com avaliações superficiais e desatualizadas que não refletem a realidade. Esta problemática se manifesta de diversas maneiras e pode resultar em experiências insatisfatórias ao sair de casa.
 
 Um dos principais desafios é a falta de informações detalhadas. Muitos sites existentes fornecem avaliações curtas e fotos estáticas, que nem sempre capturam a essência de um local ou evento. Isso cria um vácuo de informações, onde os clientes são forçados a tomar decisões baseadas em dados limitados. A consequência disso é que as expectativas muitas vezes não são atendidas quando visitamos esses lugares.
 

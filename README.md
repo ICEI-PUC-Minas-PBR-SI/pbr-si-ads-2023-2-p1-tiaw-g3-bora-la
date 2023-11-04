@@ -9,7 +9,8 @@
 
 O que exatamente é o "BORA LÁ"?
 
-O "Bora lá" é uma rede social que conecta pessoas a lugares por categoria, contendo um sistema de avaliação em tempo real o qual permite que os usuários avaliem, publicando fotos e vídeos em tempo real, locais e eventos, dando um "spoiler" para outros usuários que estão interessados em comparecer nesse evento, assim os dando um posicionamento melhor sobre a situação atual de tais lugares.
+O Bora Lá é uma rede social que conecta pessoas a lugares por categoria, contendo um sistema que permite aos usuários avaliarem locais e eventos em tempo real, postando vídeos, fotos e publicações em texto, dando assim um "spoiler" de como está o evento para outros usuários que estejam interessados em comparecer no local, na tentativa de garantir que os usuários da plataforma saibam o que vão encontrar quando chegarem no evento para que não haja decepção com a qualidade do rolê, garantindo uma melhor experiência aos usuários.
+
 
 ## Integrantes
 
@@ -17,7 +18,6 @@ O "Bora lá" é uma rede social que conecta pessoas a lugares por categoria, con
 * Maria Eduarda Wilken de Souza
 * Kelvin Vinicíus
 * João Gabriel Pires
-* Carlos Henrique Pereira Vieira
 * Nicole Ferreira
 * Flávio Siqueira
 

@@ -36,42 +36,17 @@ header img.user {
     border-radius: 100%;
     width: 50px;
 }
-code .carousel {
-    display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-}
-
-.card {
-    flex: 0 0 auto;
-    width: 300px;
-    /* Defina o tamanho desejado para cada card */
-    margin-right: 10px;
-    scroll-snap-align: start;
-    border: 1px solid #ccc;
-    padding: 10px;
-}
-
-.card img {
-    max-width: 100%;
-    height: auto;
-}
-.card-wrapper{
-    display: flex;
-}
-.card{
-    margin:0 .5em;
-    width: calc(100%/3); 
-    
-}
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #fafafa;
+  background-color: #080707;
 }
  
 .row {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.CORCARD{
+    color:white;
 }

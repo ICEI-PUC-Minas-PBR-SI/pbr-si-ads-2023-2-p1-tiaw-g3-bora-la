@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(135deg, #ff3c00, #001068, #ff00f2);
+
+    background-size: auto;
+    animation: gradient 10s ease infinite;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height:200%;
+}
+
+.profile {
+    background-size: 200% 200%;
+    border-radius: 10px;
+    display: flex;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(255, 51, 102, 0.3);
+}
+
+.profile-header {
+    display: auto;
+}
+
+.profile-header img {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.user-stats {
+    display: auto;
+    flex-direction: column;
+}
+
+button#open-chat-modal {
+    background-color: #3f007a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.profile-content {
+    display:flex;
+    flex: 1;
+    margin-top: 20px;
+    justify-content:space-around;
+    align-items:flex-end;
+}
+
+.top-locations, .favorite-styles {
+    flex: 1;
+}
+
+ul {
+    list-style:square
+}
+
+h2 {
+    color: #ff3366;
+}
+
+li {
+    margin-bottom: 10px;
+}
+

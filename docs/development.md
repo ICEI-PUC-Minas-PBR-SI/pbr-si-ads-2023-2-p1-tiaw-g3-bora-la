@@ -76,17 +76,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
-
+| identificador        | Texto  e número           |nome de usuário ou cnpj                       |@rolezeiro ou 1222965/0001-58                                  |
 |email   | Texto  e número           | email cadastro/segurança                    | 123BL@borala.com                          |
-
 |telefone   | número           | telefone/ verificação 2 etapas                      | +55 (31) 99999-9999                          |
 
 ## Alteração de senha
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
+|Nova senha    | Texto  e número           | senha de acesso                       | 123BL@2024                           |
+|Confirme senha    | Texto  e número           |  Deve ser identico a nova senha                     | 123BL@2024                           |
 
-|Nova senha    | Texto  e número           | senha de acesso                       | 123BL@2024 |
-|confirme senha senha    | Texto  e número           | senha identica a nova senha                     | 123BL@2024|
 
 

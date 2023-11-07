@@ -56,11 +56,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ## Descrição das estruturas:
 
-## Notícia
+## Login
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+| Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
+| identificador        | Texto  e número           |nome de usuário ou cnpj                       |@rolezeiro ou 1222965/0001-58                                  |
+|senha    | Texto  e número           | senha de acesso                       | 123BL@2024                           |
+
+## Cadastro
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
+| identificador        | Texto  e número           |nome de usuário ou cnpj                       |@rolezeiro ou 1222965/0001-58                                  |
+|email   | Texto  e número           | email cadastro/segurança                    | 123BL@borala.com                          |
+|telefone   | número           | telefone/ verificação 2 etapas                      | +55 (31) 99999-9999                          |
+|senha    | Texto  e número           | senha de acesso                       | 123BL@2024                           |
+
 

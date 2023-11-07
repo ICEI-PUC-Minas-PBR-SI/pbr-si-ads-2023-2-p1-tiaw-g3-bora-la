@@ -78,6 +78,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
 
 |email   | Texto  e número           | email cadastro/segurança                    | 123BL@borala.com                          |
+
 |telefone   | número           | telefone/ verificação 2 etapas                      | +55 (31) 99999-9999                          |
 
 ## Alteração de senha

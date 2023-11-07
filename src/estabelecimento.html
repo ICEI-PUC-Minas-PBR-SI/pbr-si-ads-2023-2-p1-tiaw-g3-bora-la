@@ -22,35 +22,46 @@
         }
 
         .profile {
+            min-width: 80%;
             max-width: 100%;
             margin: 0 auto;
             padding: 10px;
             border: 3px solid black;
             border-radius: 5px;
+            min-width: 80%;
+            background: whitesmoke;
         }
         .profile img {
     max-width: 100%;
     height: auto; 
+
 }
 
+.col-md-5.m-5{
+    color:white;
+}
     </style>
 </head>
 
 <body>
     <header>
         <div>
-            <img class="logo" src="logo.jpg" width="150px" alt="logo">
+            <img class="logo" src="img/logo.jpg" width="150px" alt="logo">
             <h2 class="textcenter">Bora lá</h2>
         </div>
 
     </header>
+  
     <div class="row" id="info">
-        <div class="col-md-5">
-            <h1>Nome do Local</h1>
-            <img src="pizzaria.jpg">
+        <div class="col-md-12 text-center">
+         
+            </div>
+            <div class="col-md-5">
+            <img src="img/pizzaria.jpg">
         </div>
-        <div class="profile col-md-5">
-            <h1>descrição do local</h1>
+        <div class="profile col-md-5 text-ce">
+            <h1>Nome do local</h1>
+            <h2>descrição do local</h2  >
             <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda minus reiciendis, dolores iure rem
                 earum? Provident ex qui iste neque soluta aperiam, tempore perferendis aspernatur sapiente, quod rerum
                 repellendus! Vel!</a>
@@ -70,7 +81,7 @@
             <br>
             <a>Calendário de eventos Eventos</a>
             <br>
-            <img src="calendario.jpeg"
+            <img src="img/calendario.jpeg"
                 class=" m-" width="500px">
 
 
@@ -84,12 +95,12 @@
             <a>número: 42</a>
             <br>
             <a>Informações complementares: Em frente ao pet shop</a>
-            <!--Google map-->
+           
             <div id="map-container-google-2" class="z-depth-1-half map-container">
                 <iframe src="https://maps.google.com/maps?q=chicago&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
                     style="border:0" allowfullscreen width="800px" height="500px"></iframe>
             </div>
-            <!--Google Maps-->
+            
             <a>mapa ilustrativo</a>
 
         </div>

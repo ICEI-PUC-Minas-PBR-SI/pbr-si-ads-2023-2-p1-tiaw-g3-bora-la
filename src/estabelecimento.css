@@ -9,7 +9,7 @@ header {
     /* Espaço igual entre os itens */
     padding: 10px;
     /* Adiciona um espaço interno ao header */
-    background: linear-gradient(135deg, #ff5100, #04207a, #ff00dd);
+
     background-size: 200%;
     animation: gradient 10s ease infinite;
     
@@ -17,6 +17,8 @@ header {
 
 h1 {
     margin-top: 0;
+    display: flex;
+    align-items: center;
 }
 
 header .logo {
@@ -56,7 +58,7 @@ body {
     animation: gradient 10s ease infinite;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #e78457, #e656d5);
+    background: linear-gradient(135deg, #ff5100, #04207a, #ff00dd);
   background-color: #fafafa;
 }
  
@@ -71,9 +73,11 @@ body {
     padding: 20px;
    
 }
-
+#info img{
+    margin: 20px;
+}
 #info .col-md-6 {
-    margin: 100px;
+    margin-bottom: 100px;
 }
 
 footer{

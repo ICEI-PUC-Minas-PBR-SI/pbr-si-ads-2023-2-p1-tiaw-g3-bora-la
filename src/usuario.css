@@ -7,7 +7,7 @@ header {
     /* Espaço igual entre os itens */
     padding: 10px;
     /* Adiciona um espaço interno ao header */
-    background: linear-gradient(135deg, #ff5100, #001455, #ff00dd);
+  
     background-size: 200%;
     animation: gradient 10s ease infinite;
 }
@@ -38,7 +38,7 @@ header img.user {
 }
 
 body {
-    background: linear-gradient(135deg, #e78457, #e656d5);
+    background: linear-gradient(135deg, #ff5100, #001455, #ff00dd);
     background-size: 200%;
     animation: gradient 10s ease infinite;
     margin: 0;
@@ -46,7 +46,9 @@ body {
     font-family: Arial, sans-serif;
 }
 
-
+.col-lg-5{
+    color:white;
+}
 
 .row {
   display: flex;
@@ -59,8 +61,15 @@ body {
     padding: 20px;
     border: 3px solid black;
     border-radius: 5px;
+    background: rgb(52,58,64);
 }
 
 footer{
     background-color: rgb(52,58,64);
 }
+
+h1{
+    color:white;
+}
+
+

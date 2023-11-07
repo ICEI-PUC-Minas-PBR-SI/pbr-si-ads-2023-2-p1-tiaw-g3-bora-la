@@ -85,7 +85,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
 
-|Nova senha    | Texto  e número           | senha de acesso                       | 123BL@2024                           |
-|confirme senha senha    | Texto  e número           | senha identica a nova senha                     | 123BL@2024                           |
+|Nova senha    | Texto  e número           | senha de acesso                       | 123BL@2024 |
+|confirme senha senha    | Texto  e número           | senha identica a nova senha                     | 123BL@2024|
 
 

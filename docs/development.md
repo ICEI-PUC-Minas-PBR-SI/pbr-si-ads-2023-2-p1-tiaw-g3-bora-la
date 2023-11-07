@@ -17,18 +17,42 @@ O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utiliza
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
-## Exemplo
 
-## Requisitos Atendidos
+
+## Requisitos Atendidos (ATUALIZAR MAIN EM BREVE)
 
 As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais que relacionam o escopo do projeto com os artefatos criados:
-
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
-|------|------------------------|------------|-----------------|
-|RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
-|RF-002| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
+|------|-----------------------------------------|----| ----|
+|RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (SITE ESTÁTICO)|
+|RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
+|RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|
+|RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|
+|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
+|RF-006| Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais| ALTA | |
+|RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
+|RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (SITE ESTÁTICO)|
+|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE USUÁRIOS)|
+|RF-010|A interface deve ser projetada de acordo com as diretrizes de acessibilidade.| BAIXA | AINDA NÃO DESENVOLVIDO |
+
+
+
+### Requisitos não Funcionais
+
+|ID    | Descrição do Requisito | Prioridade | Artefato Criado |
+|-------|-------------------------|----|---------------|
+|RNF-001| O aplicativo deve ser rápido e responsivo, com um tempo médio de resposta de no máximo 2 segundos em todas as funcionalidades, mesmo em áreas com conexões de internet mais lentas. | ALTA | exemplo|
+|RNF-002| O aplicativo deve cumprir todas as regulamentações relevantes de privacidade e segurança de dados. |  ALTA | exemplo|
+|RNF-003| O aplicativo deve ser capaz de lidar com um grande número de usuários e locais cadastrados à medida que cresce. |  ALTA | exemplo|
+|RNF-004| Deve ser compatível com dispositivos iOS e Android, bem como navegadores da web. |  ALTA | exemplo|
+|RNF-005| A interface do usuário deve ser intuitiva e fácil de usar, para atender a uma ampla gama de usuários, incluindo aqueles que não são tecnicamente experientes. |  ALTA | exemplo|
+|RNF-006| O aplicativo deve estar disponível 24/7 para atender às necessidades dos usuários em diferentes horários.|  MÉDIA | exemplo|
+|RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | exemplo|
+|RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA |exemplo|
+|RNF-009| O aplicativo deve ter um sistema de alerta e relato de incidentes. |  BAIXA |exemplo|
+
 
 ## Descrição das estruturas:
 

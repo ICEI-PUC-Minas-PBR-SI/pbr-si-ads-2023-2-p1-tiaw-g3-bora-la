@@ -72,4 +72,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |telefone   | número           | telefone/ verificação 2 etapas                      | +55 (31) 99999-9999                          |
 |senha    | Texto  e número           | senha de acesso                       | 123BL@2024                           |
 
+## Recuperação de senha
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
+
+|email   | Texto  e número           | email cadastro/segurança                    | 123BL@borala.com                          |
+|telefone   | número           | telefone/ verificação 2 etapas                      | +55 (31) 99999-9999                          |
+
+## Alteração de senha
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id             | Numero (Inteiro)  | Identificador único do usuário           | 01                                              |
+
+|Nova senha    | Texto  e número           | senha de acesso                       | 123BL@2024                           |
+|confirme senha senha    | Texto  e número           | senha identica a nova senha                     | 123BL@2024                           |
+
 

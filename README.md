@@ -19,6 +19,10 @@ O Bora Lá é uma rede social que conecta pessoas a lugares por categoria, conte
 * Nicole Ferreira
 * Kelvin Vinicíus
 * João Gabriel Pires
+<<<<<<< HEAD
+=======
+* Nicole Ferreira
+>>>>>>> 7aa0aad839ef1c149a085ae3f7bfdcb6464539f6
 * Flávio Siqueira
 
 ## Orientador

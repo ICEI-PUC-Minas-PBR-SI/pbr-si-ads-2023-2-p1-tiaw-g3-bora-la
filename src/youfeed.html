@@ -11,6 +11,10 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="feed.css">
     <link href='https://fonts.googleapis.com/css?family=Roboto Mono' rel='stylesheet'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <style>
         body {
             background: white;
@@ -18,13 +22,13 @@
             animation: gradient 10s ease infinite;
             margin: 0;
             padding: 0;
-           
+
         }
 
-        *:not(footer){
-             font-family: 'Roboto Mono';
+        *:not(footer) {
+            font-family: 'Roboto Mono';
         }
-        
+
         h1 {
             margin-top: 0;
         }
@@ -89,28 +93,510 @@
             width: 100%;
             height: auto;
         }
-        header{
+
+        header {
             background: linear-gradient(135deg, #ff5100, #001455, #ff00dd);
             background-size: 200%;
             animation: gradient 10s ease infinite;
         }
-.user{
-    border-radius: 100%;
-    width: 90px;
-   float: right; 
-}
+
+        .user {
+            border-radius: 100%;
+            width: 90px;
+            float: right;
+        }
+
+        body {
+            background:black;
+            background-size: 200%;
+        }
+
+        .card {
+            background: white;
+            background-size: 200%;
+        }
+
+        .header {
+            text-align: center;
+            /* Centraliza o conteúdo dentro do div */
+        }
+
+        .logo {
+            margin-right: 10px;
+            /* Define uma margem direita para a imagem do logotipo */
+        }
+
+        .textcenter {
+            margin-left: 10px;
+            /* Define uma margem esquerda para o texto */
+        }
+        button {
+            margin: 10px; /* Adicione margens aos botões para espaçamento */
+            background-color: #333333; /* Cor de fundo escura */
+            color: #fff; /* Cor do texto branca */
+            border: 2px solid #333; /* Borda escura */
+            border-radius: 20px; /* Bordas circulares */
+            padding: 10px 20px; /* Espaçamento interno */
+            cursor: pointer; /* Transforma o cursor em uma mão ao passar o mouse */
+        }
+
+        .search-bar {
+            margin-top: 10px; /* Adicione margem superior à barra de busca */
+            background-color: #333; /* Cor de fundo escura */
+            color: #fff; /* Cor do texto branca */
+            border: 2px solid #333; /* Borda escura */
+            border-radius: 20px; /* Bordas circulares */
+            padding: 5px 50px; /* Espaçamento interno */
+        }
+        .filter-label {
+            margin-right: 10px; /* Adicione margem direita para separar a etiqueta da lista suspensa */
+        }
+
+        .filter-container {
+            display: flex;
+            align-items: center; /* Centraliza verticalmente */
+        }
+        .search-container{
+        border-radius: 100%;
+        margin-top: 5px;
+        color: #333;
+        }
+        h2 {
+            margin-bottom: 10px; /* Reduza a margem inferior do título "Bora lá" */
+        }
+        footer{
+background:linear-gradient(135deg, #ff5100, #001455, #ff00dd); 
+background-size: 200%;
+            animation: gradient 10s ease infinite;
+        }
+        
     </style>
 </head>
+
 <body>
     <header>
-        <div>
-                <img class="logo" src="img/logo.jpg" width="150px" alt="logo">
-            <h2 class="textcenter">Bora lá</h2>
+        <div class="header">
+           
+            <img class="user mt-4" src="menino_ney.jpg">
+            <img class="logo" src="logo.jpg" width="150px" alt="logo">
+           
+            
+            <div>
+                <input class= "search-bar" type="text" placeholder="Qual Rolê de hoje?">
+            </div>
+            <div class="search-container">
+                <label class="filter-label" for="music-genre"></label>
+                <select id="music-genre">
+                    <option value="pop"></option>
+                    <option value="pop">Pop</option>
+                    <option value="rock">Rock</option>
+                    <option value="hip-hop">Hip Hop</option>
+                    <option value="electronic">Eletrônica</option>
+                    <!-- Adicione mais opções de gênero conforme necessário -->
+                </select>
+             
+            </div>
         </div>
-        <img class="user" src="img/menino_ney.jpg">
+        <div class="button-container">
+            <button>Conexões</button>
+            <button>Rolê</button>
+        </div>  
     </header>
-  
-    <footer class="bg-dark text-white text-center mt-3">
+    <div class="container">
+        <h2 class="CORCARD">Bares</h2>
+        <div id="myCarousel1" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 2</b></h4>
+                                    <p>Descrição do card 2</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 3</b></h4>
+                                    <p>Descrição do card 3</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 4</b></h4>
+                                    <p>Descrição do card 4</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 5</b></h4>
+                                    <p>Descrição do card 5</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 6</b></h4>
+                                    <p>Descrição do card 6</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#myCarousel1" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel1" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
+        </div>
+    </div>
+    <div class="container">
+        <h2 class="CORCARD">Restaurantes</h2>
+        <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 2</b></h4>
+                                    <p>Descrição do card 2</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 3</b></h4>
+                                    <p>Descrição do card 3</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 4</b></h4>
+                                    <p>Descrição do card 4</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 5</b></h4>
+                                    <p>Descrição do card 5</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 6</b></h4>
+                                    <p>Descrição do card 6</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#myCarousel2" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel2" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
+        </div>
+    </div>
+    <div class="container">
+        <h2 class="CORCARD">Pub´s e shows</h2>
+        <div id="myCarousel3" class="carousel slide" data-ride="carousel">
+
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 2</b></h4>
+                                    <p>Descrição do card 2</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 3</b></h4>
+                                    <p>Descrição do card 3</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 4</b></h4>
+                                    <p>Descrição do card 4</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 5</b></h4>
+                                    <p>Descrição do card 5</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 6</b></h4>
+                                    <p>Descrição do card 6</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="logo.jpg" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <button class="btn btn-secondary">Feed</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#myCarousel3" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel3" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
+
+        </div>
+    </div>
+
+    <footer class=" text-white text-center mt-3">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

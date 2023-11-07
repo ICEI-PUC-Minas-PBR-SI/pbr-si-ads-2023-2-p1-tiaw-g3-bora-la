@@ -26,7 +26,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|-----------------------------------------|----| ----|
-|RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (SITE ESTÁTICO)|
+|RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA | cadastro.html|
 |RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
 |RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|
 |RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|

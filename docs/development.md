@@ -30,7 +30,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA | youfeed.html |
 |RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | estabelecimento.html
 |RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|
-|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
+|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA | estabelecimento.html (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
 |RF-006| Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais| ALTA | |
 |RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
 |RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (SITE ESTÁTICO)|

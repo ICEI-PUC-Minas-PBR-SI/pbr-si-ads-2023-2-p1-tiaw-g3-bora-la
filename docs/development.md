@@ -27,7 +27,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|-----------------------------------------|----| ----|
 |RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA | cadastro.html|
-|RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
+|RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA | youfeed.html |
 |RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|
 |RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|
 |RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
@@ -43,7 +43,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |-------|-------------------------|----|---------------|
-|RNF-001| O aplicativo deve ser rápido e responsivo, com um tempo médio de resposta de no máximo 2 segundos em todas as funcionalidades, mesmo em áreas com conexões de internet mais lentas. | ALTA | exemplo|
+|RNF-001| O aplicativo deve ser rápido e responsivo, com um tempo médio de resposta de no máximo 2 segundos em todas as funcionalidades, mesmo em áreas com conexões de internet mais lentas. | ALTA | borala.html |
 |RNF-002| O aplicativo deve cumprir todas as regulamentações relevantes de privacidade e segurança de dados. |  ALTA | exemplo|
 |RNF-003| O aplicativo deve ser capaz de lidar com um grande número de usuários e locais cadastrados à medida que cresce. |  ALTA | exemplo|
 |RNF-004| Deve ser compatível com dispositivos iOS e Android, bem como navegadores da web. |  ALTA | exemplo|

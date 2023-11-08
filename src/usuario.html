@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de perfil do usuário</title>
+    <link rel="stylesheet" href="usuario.css">
+
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto Mono' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <style>
+        * {
+            width: 100%;
+        }
+
+        .col-md-5 {
+            font-family: 'Roboto Mono';
+        }
+
+        .profile {
+            max-width: 30%;
+            min-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 3px solid black;
+            border-radius: 5px;
+
+
+        }
+
+        button {
+            border-radius: 30px;
+            margin: 10px;
+        }
+
+        .user {
+            margin: 250px;
+
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            padding-top: 100px;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgb(0, 0, 0);
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+
+        /* conteudo do modal */
+        .modal-content {
+            background-color: #fefefe;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            height: 80%;
+            border-radius: 15px;
+        }
+
+        /*botão de fechar*/
+        .close {
+            color: #aaaaaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: #000;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        #modailimgcont {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+
+        .modalimg {
+            width: 55px;
+
+
+        }
+
+        .balao {
+            margin: 10px;
+            width: 20%;
+            background: green;
+            padding: 30px;
+            text-align: center;
+            font-size: 10px;
+            border-radius: 35px;
+            color: cyan;
+            position: relative;
+        }
+
+        /* Estilos para balões de remetente e destinatário */
+        .balao {
+            background: green;
+            color: cyan;
+            width: 35%;
+            max-width: 45%;
+            padding: 10px 15px;
+            text-align: center;
+            font-size: 12px;
+            border-radius: 15px;
+            margin: 10px;
+        }
+
+        .destinatario {
+            background: blue;
+            color: white;
+        }
+
+        /* Largura máxima para evitar ocupar toda a largura da tela */
+        .balao-container {
+            max-width: 100%;
+           
+        }
+
+        /* Posicionamento relativo para ajustar a sobreposição */
+        .balao {
+            position: relative;
+           
+        }
+
+        .destinatario {
+            position: relative;
+            float: right;
+        }
+
+        /* Limpar floats para ajustar a sobreposição */
+        .clear {
+            clear: both;
+        }
+
+        input {
+            position: relative;
+            top: 35%;
+            height: 45px;
+            border-radius: 15px;
+            background-color: #888;
+        }
+
+       img.user{
+        width:40%;
+       
+       }
+
+       .overflow-auto{
+        min-width: 80%;
+       }
+    </style>
+
+
+</head>
+
+<body>
+    <header>
+        <div>
+            <img class="logo" src="img/logo.jpg" width="150px" alt="logo">
+            <h2 class="textcenter">Bora lá</h2>
+        </div>
+
+    </header>
+    <div class="row" id="info">
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <img class="user img-fluid" src="img/placeholderimg.jpg">
+        </div>
+        <div class="profile col-lg-5 col-md-12 col-sm-12">
+
+            <h1>Nome do Usuário</h1>
+            <p>Email: usuario@email.com</p>
+            <p>rolêS: 131</p>
+            <p>Conexões: 32</p>
+            <h5>descrição</h5>
+            <p> dolor sit amet consectetur adipisicing elit. Earum nam repellat ex saepe perspiciatis hic
+                rem eos dicta deleniti aperiam velit, debitis provident quisquam ab inventore. Sint ipsa quasi tempora
+                distinctio, iusto voluptatem similique harum iste nostrum suscipit natus cum consequatur, quo, error
+                modi. Reprehenderit, laborum esse, repellendus assumenda inventore ratione possimus maxime similique
+                fugiat odio quasi. Omnis quia dolore quidem, debitis ullam delectus necessitatibus dolorum atque,
+                temporibus nulla perferendis animi harum nam in sapiente a eius dicta praesentium quae fuga officiis
+                adipisci est! Voluptatem reprehenderit magni, dolor debitis similique qui fugiat magnam vel perspiciatis
+                ad at veniam ratione! Cupiditate.
+            </p>
+
+            <button id="botãomodal">Chat</button>
+
+
+            <div id="modal" class="modal">
+
+
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <div id="modailimgcont">
+                        <div class="col-md-5"> <img class="modalimg" src="img/placeholderimg.jpg">
+                        </div>
+                    </div>
+
+                    <div class="balao-container">
+                        <div class="col-lg-11 col-md-11 overflow-auto m-5" style="max-height: 100%;">
+                            <div class="balao">Lorem ipsum dolor sit amet.</div>
+                            <div class="balao destinatario">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Natus
+                                ipsa dicta commodi minus tempora! Provident, dolorem? Neque, adipisci ullam ab
+                                laboriosam
+                                impedit asperiores distinctio expedita consectetur fuga dolore dignissimos, sed ratione
+                                at
+                                in nostrum quos doloribus beatae ad sint vitae quasi cupiditate quo. Explicabo
+                                necessitatibus, quisquam enim quibusdam porro, dolores, aperiam eligendi suscipit
+                                doloremque
+                                aut voluptatem reprehenderit excepturi at eum recusandae fugiat error maiores minus.
+                            </div>
+                            <div class="clear"></div>
+
+                        </div>
+                    </div>
+                    <input>
+
+
+
+                </div>
+
+            </div>
+        </div>
+        <script>
+
+            var modal = document.getElementById("modal");
+
+            var btn = document.getElementById("botãomodal");
+
+            var span = document.getElementsByClassName("close")[0];
+
+            btn.onclick = function () {
+                modal.style.display = "block";
+            }
+
+
+            span.onclick = function () {
+                modal.style.display = "none";
+            }
+
+            window.onclick = function (event) {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
+            }
+        </script>
+
+
+
+        <div class="col-lg-5 col-md-12 overflow-auto m-5" style="max-height: 400px;">
+            <h1>Locais visitados</h1>
+
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+
+
+        </div>
+
+        <div class="col-lg-5 col-md-12 overflow-auto m-5" style="max-height: 400px;">
+            <h1>Estilos Favoritos</h1>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+            <div class="card mb-3">
+                card
+            </div>
+
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <footer class="bg-dark text-white text-center mt-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>&copy; 2023 Baroli Work Development Company. Todos os direitos reservados.</p>
+                    <p>Contato: borala@baroliwork.com</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+
+</html>

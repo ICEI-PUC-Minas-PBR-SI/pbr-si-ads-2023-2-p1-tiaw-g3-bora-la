@@ -51,7 +51,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RNF-006| O aplicativo deve estar disponível 24/7 para atender às necessidades dos usuários em diferentes horários.|  MÉDIA | exemplo|
 |RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | exemplo|
 |RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA |exemplo|
-|RNF-009| O aplicativo deve ter um sistema de alerta e relato de incidentes. |  BAIXA |exemplo|
 
 
 ## Descrição das estruturas:

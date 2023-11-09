@@ -4,9 +4,9 @@ Bem-vindo ao Bora Lá, sua janela em tempo real para o mundo ao seu redor! Com o
 
 Imagine poder verificar a lotação de bares, restaurantes, eventos e pontos comerciais antes de sair de casa?! Também será possível fazer conexões com seus amigos, ver fotos e comentários de outros clientes para que você possa decidir onde jantar baseado em avaliações em tempo real, evitando decepções. Com o Bora Lá, tudo isso é possível! Nossa plataforma permite que você acompanhe em tempo real se um lugar está movimentado ou tranquilo, para que você possa escolher o ambiente que melhor se adequa ao seu humor.
 
-Com nosso projeto, beneficiamos tanto o comércio quanto a clientela, dando visibilidade do seu negócio à todos, independente de sua localização. Através de fotos, atualizações ao vivo da lotação, dando de certa forma um suporte em seu gerenciamento. Entrando em parceria com nossa organização você terá tudo isso e um pouco mais, entre em contato conosco!
+Seja para um encontro animado ou um momento de relaxamento tranquilo, o Bora lá tem tudo sob controle. Além de encontrar o restaurante perfeito que serve o seu prato favorito, também é possível localizar as melhores atrações próximas a você, com a distância exata do seu local atual até o destino desejado.
 
-Não importa se você está procurando um local animado para um encontro, ou um lugar tranquilo para relaxar. Até mesmo um restaurante que sirva o seu prato favorito, o Bora lá tem tudo sob controle. Através dele, você também pode localizar as melhores atrações mais perto de você, com a distância exata de onde você está até o local desejado.
+Com nosso projeto, beneficiamos tanto o comércio quanto a clientela, dando visibilidade do seu negócio à todos, independente de sua localização. Através de fotos, atualizações ao vivo da lotação, dando de certa forma um suporte em seu gerenciamento. Entrando em parceria com nossa organização você terá tudo isso e um pouco mais, entre em contato conosco!
 
 Prepare-se para tomar decisões mais inteligentes e explorar sua região como nunca antes. Faça o download do Bora Lá agora e comece a vivenciar o mundo ao seu redor de uma maneira totalmente nova!
 

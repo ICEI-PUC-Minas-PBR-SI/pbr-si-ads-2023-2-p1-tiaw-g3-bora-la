@@ -6,7 +6,7 @@ Imagine poder verificar a lotação de bares, restaurantes, eventos e pontos com
 
 Seja para um encontro animado ou um momento de relaxamento tranquilo, o Bora lá tem tudo sob controle. Além de encontrar o restaurante perfeito que serve o seu prato favorito, também é possível localizar as melhores atrações próximas a você, com a distância exata do seu local atual até o destino desejado.
 
-Com nosso projeto, beneficiamos tanto o comércio quanto a clientela, dando visibilidade do seu negócio à todos, independente de sua localização. Através de fotos, atualizações ao vivo da lotação, dando de certa forma um suporte em seu gerenciamento. Entrando em parceria com nossa organização você terá tudo isso e um pouco mais, entre em contato conosco!
+Por meio do nosso projeto, proporcionamos benefícios tanto para o comércio quanto para os clientes, oferecendo visibilidade do seu negócio a todos, independentemente da localização. Com recursos como fotos e atualizações em tempo real sobre a lotação, fornecemos suporte eficaz para o gerenciamento do seu empreendimento. Ao estabelecer uma parceria conosco, você terá acesso a tudo isso e muito mais. Entre em contato conosco para saber mais!
 
 Prepare-se para tomar decisões mais inteligentes e explorar sua região como nunca antes. Faça o download do Bora Lá agora e comece a vivenciar o mundo ao seu redor de uma maneira totalmente nova!
 

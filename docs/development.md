@@ -47,10 +47,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RNF-002| O aplicativo deve cumprir todas as regulamentações relevantes de privacidade e segurança de dados. |  ALTA | borala.html |
 |RNF-003| O aplicativo deve ser capaz de lidar com um grande número de usuários e locais cadastrados à medida que cresce. |  ALTA | borala.html|
 |RNF-004| Deve ser compatível com dispositivos iOS e Android, bem como navegadores da web. |  ALTA | borala.html |
-|RNF-005| A interface do usuário deve ser intuitiva e fácil de usar, para atender a uma ampla gama de usuários, incluindo aqueles que não são tecnicamente experientes. |  ALTA | exemplo|
-|RNF-006| O aplicativo deve estar disponível 24/7 para atender às necessidades dos usuários em diferentes horários.|  MÉDIA | exemplo|
-|RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | exemplo|
-|RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA |exemplo|
+|RNF-005| A interface do usuário deve ser intuitiva e fácil de usar, para atender a uma ampla gama de usuários, incluindo aqueles que não são tecnicamente experientes. |  ALTA | borala.html |
+|RNF-006| O aplicativo deve estar disponível 24/7 para atender às necessidades dos usuários em diferentes horários.|  MÉDIA | borala.html |
+|RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS |
+|RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS|
 
 
 ## Descrição das estruturas:

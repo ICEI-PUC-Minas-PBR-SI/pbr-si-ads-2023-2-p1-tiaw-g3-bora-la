@@ -1,12 +1,11 @@
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo.
-
-O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utilizados como referência:
-- Login do sistema: [https://repl.it/@rommelpuc/LoginApp](https://repl.it/@rommelpuc/LoginApp) 
-- Cadastro de Contatos: [https://repl.it/@rommelpuc/Cadastro-de-Contatos](https://repl.it/@rommelpuc/Cadastro-de-Contatos)
+- Login do sistema: [src: borala.html]
+- Cadastro: [src: cadastro.html]
+- Recuperação de senha: [src:recuperacao.html]
+- Feed: [src: youfeed.html]
+- Conexões: [src: telaconexoes.html]
+- Configurações: [src: configurações.html]
 
 
 > **Links Úteis**:
@@ -29,13 +28,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA | cadastro.html|
 |RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA | youfeed.html |
 |RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | estabelecimento.html
-|RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE LOCAIS)|
-|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA | estabelecimento.html (AINDA NÃO HÁ CADASTRO DE LOCAIS) |
+|RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | youfeed.html|
+|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA | estabelecimento.html|
 |RF-006| Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais| ALTA | youfeed.html |
 |RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA | configurações.html |
-|RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (SITE ESTÁTICO)|
-|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS (AINDA NÃO HÁ CADASTRO DE USUÁRIOS)|
-|RF-010|A interface deve ser projetada de acordo com as diretrizes de acessibilidade.| BAIXA | AINDA NÃO DESENVOLVIDO |
+|RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | cadastro.html|
+|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | usuario.html |
+|RF-010|A interface deve ser projetada de acordo com as diretrizes de acessibilidade.| BAIXA | borala.html |
 
 
 
@@ -49,8 +48,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RNF-004| Deve ser compatível com dispositivos iOS e Android, bem como navegadores da web. |  ALTA | borala.html |
 |RNF-005| A interface do usuário deve ser intuitiva e fácil de usar, para atender a uma ampla gama de usuários, incluindo aqueles que não são tecnicamente experientes. |  ALTA | borala.html |
 |RNF-006| O aplicativo deve estar disponível 24/7 para atender às necessidades dos usuários em diferentes horários.|  MÉDIA | borala.html |
-|RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS |
-|RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA |AINDA NÃO DESENVOLVIDO NA ETAPA DE HTML-CSS|
+|RNF-007| Deve haver um plano de manutenção para corrigir bugs, atualizar informações e adicionar recursos conforme necessário.|  ALTA | borala.html |
+|RNF-008| Deve haver um sistema de backup e recuperação de dados para evitar a perda de informações importantes. |  BAIXA |recuperacao.html|
 
 
 ## Descrição das estruturas:

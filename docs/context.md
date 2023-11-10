@@ -1,12 +1,12 @@
 # Introdução
 
-Bem-vindo ao Bora Lá, a sua janela em tempo real para o mundo ao seu redor! Com o nosso aplicativo inovador, você terá acesso imediato a informações cruciais sobre os locais públicos em sua região. Não precisa mais se preocupar com a incerteza de como estão os bares, restaurantes e outros lugares, porque nós fornecemos todas as informações que você precisa para tomar decisões informadas e aproveitar ao máximo o seu tempo.
+Bem-vindo ao Bora Lá, sua janela em tempo real para o mundo ao seu redor! Com o nosso aplicativo inovador, você terá acesso imediato a informações cruciais sobre os eventos e locais em sua região, em tempo real. Não precisa mais se preocupar com a incerteza de como estão os bares, restaurantes e outros locais pois o Bora Lá irá fornecer todas as informações necessárias para que você escolha o melhor lugar para passear e aproveitar ao máximo o seu tempo.
 
-Imagine poder verificar a lotação de bares, restaurantes, até mesmo eventos e pontos comerciais antes de sair de casa, fazer conexões com quem deseja, ou até mesmo decidir onde jantar baseado em avaliações, fotos e comentários de outros clientes. Com Bora Lá, isso é totalmente possível! Nossa plataforma permite que você veja em tempo real se um lugar está movimentado ou tranquilo, para que você possa escolher o ambiente que se adequa ao seu humor.
+Imagine poder verificar a lotação de bares, restaurantes, eventos e pontos comerciais antes de sair de casa?! Também será possível fazer conexões com seus amigos, ver fotos e comentários de outros clientes para que você possa decidir onde jantar baseado em avaliações em tempo real, evitando decepções. Com o Bora Lá, tudo isso é possível! Nossa plataforma permite que você acompanhe em tempo real se um lugar está movimentado ou tranquilo, para que você possa escolher o ambiente que melhor se adequa ao seu humor.
 
-Com nosso projeto, beneficiamos tanto o comércio quanto a clientela, dando visibilidade do seu negócio à todos, independente de sua localização. Através de fotos, atualizações ao vivo da lotação, dando de certa forma um suporte em seu gerenciamento. Entrando em parceria com nossa organização você terá tudo isso e um pouco mais, entre em contato conosco!
+Seja para um encontro animado ou um momento de relaxamento tranquilo, o Bora lá tem tudo sob controle. Além de encontrar o restaurante perfeito que serve o seu prato favorito, também é possível localizar as melhores atrações próximas a você, com a distância exata do seu local atual até o destino desejado.
 
-Não importa se você está procurando um local animado para um encontro, ou um lugar tranquilo para relaxar. Até mesmo um restaurante que sirva o seu prato favorito, o Bora lá tem tudo sob controle. Através dele, você também pode localizar as melhores atrações mais perto de você, com a distância exata de onde você está até o local desejado.
+Por meio do nosso projeto, proporcionamos benefícios tanto para o comércio quanto para os clientes, oferecendo visibilidade do seu negócio a todos, independentemente da localização. Com recursos como fotos e atualizações em tempo real sobre a lotação, fornecemos suporte eficaz para o gerenciamento do seu empreendimento. Ao estabelecer uma parceria conosco, você terá acesso a tudo isso e muito mais. Entre em contato conosco para saber mais!
 
 Prepare-se para tomar decisões mais inteligentes e explorar sua região como nunca antes. Faça o download do Bora Lá agora e comece a vivenciar o mundo ao seu redor de uma maneira totalmente nova!
 
@@ -33,7 +33,7 @@ Conectar pessoas a lugares por  categoria: casa de show, bares, igrejas, gênero
 
 ·	Ranquear os usuários de acordo com a utilização da plataforma;
 
-·	Ver o rolê antes de sair de casa;
+·	Conferir como está o rolê antes de sair de casa;
 
 · Trazer uma melhor ambientação para o usuário;
 

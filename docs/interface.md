@@ -7,7 +7,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Exemplo de UserFlow](Flowchart1.jpg)
+![Exemplo de UserFlow](Flowchart1.jpg).
 
 ![Exemplo de UserFlow](Flowchart2.jpg).
 

@@ -9,7 +9,7 @@
 
 O que é o Bora Lá?
 
-O Bora Lá é uma rede social que conecta pessoas a lugares por categoria, contendo um sistema que permite aos usuários avaliarem locais e eventos em tempo real, postando vídeos, fotos e publicações em texto, dando assim um "spoiler" de como está o evento para outros usuários que estejam interessados em comparecer no local, na tentativa de garantir que os usuários da plataforma saibam o que vão encontrar quando chegarem no evento para que não haja decepção com a qualidade do rolê, garantindo uma melhor experiência aos usuários..
+O Bora Lá é uma rede social que conecta pessoas a lugares por categoria, contendo um sistema que permite aos usuários avaliarem locais e eventos em tempo real, postando vídeos, fotos e publicações em texto, dando assim um "spoiler" de como está o evento para outros usuários que estejam interessados em comparecer no local, na tentativa de garantir que os usuários da plataforma saibam o que vão encontrar quando chegarem no evento para que não haja decepção com a qualidade do rolê, garantindo uma melhor experiência aos usuários.
 
 
 ## Integrantes

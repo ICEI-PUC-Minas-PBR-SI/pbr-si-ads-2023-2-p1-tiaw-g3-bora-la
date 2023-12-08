@@ -33,7 +33,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-006| Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais| ALTA | youfeed.html |
 |RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA | configurações.html |
 |RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | cadastro.html|
-|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | usuario.html |
+|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | teste.html |
 |RF-010|A interface deve ser projetada de acordo com as diretrizes de acessibilidade.| BAIXA | borala.html |
 
 

@@ -19,7 +19,7 @@ O "Bora lá" é uma rede social que conecta pessoas a lugares por categoria, con
 * João Gabriel Pires
 * Carlos Henrique Pereira Vieira
 * Nicole Ferreira
-* 
+* Flávio Siqueira
 
 ## Orientador
 

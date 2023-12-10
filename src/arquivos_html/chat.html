@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* corpo (aplicar o background, excluir formatação padrão do html */
+        body {
+            background: linear-gradient(135deg, #ff3c00, #001068, #ff00f2);
+            background-size: 200% 200%;
+            animation: gradient 10s ease infinite;
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto Mono';
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center; /* Adicionado para centralizar na vertical */
+            height: 100vh;
+            /* aplicar animações do background */
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        /* aplicando cor e formatação do texto do conteudo */
+        .content {
+            text-align: center;
+            padding: 50px;
+            color: white;
+        }
+
+        /* aplicando formatação na logo */
+        .logocenter {
+            display: block;
+            margin: 20px auto 0;
+            border-radius: 20px;
+            width: 100px; /* Ajuste o tamanho desejado */
+            height: auto;
+            z-index: 1; /* Adicionado z-index para posicionar acima dos outros elementos */
+            position: relative; /* Adicionado para permitir o uso do z-index */
+        }
+
+        /* aplicando formatação e cores nos cards */
+        .card {
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* formatação e cor dos botões */
+        button {
+            border-radius: 70px;
+        }
+
+        .btn-entrar {
+            padding: 15px 25px;
+            background: linear-gradient(135deg, #ff5100, #001455);
+            animation: gradient 10s ease infinite;
+            color: #fff;
+            border: none;
+            border-radius: 50px;
+            /* Borda circular */
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+            /* Ajuste o tamanho da fonte */
+        }
+
+        .btn-cadastro {
+            padding: 15px 25px;
+            /* Ajuste o tamanho do botão de cadastro aqui */
+            background: linear-gradient(135deg, #001485, #ff00ff);
+            animation: gradient 10s ease infinite;
+            color: #fff;
+            border: none;
+            border-radius: 50px;
+            /* Borda circular */
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+            /* Ajuste o tamanho da fonte */
+        }
+
+        /* estilos adicionais para o conteúdo da página, como textos, links, etc. */
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        header img {
+            border-radius: 20px;
+            max-width: 100%;
+            height: auto;
+        }
+
+        h1 {
+            font-weight: bold;
+            margin-top: 0;
+        }
+
+        h2 {
+            font-weight: bold;
+        }
+
+        /* Estilos adicionais para o chat */
+        .chat-container {
+            width: 500px;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            white-space: pre-line;
+            font-family: monospace;
+            overflow: hidden;
+            background: #fff; /* Cor de fundo adicionada ao chat container */
+            color: #000; /* Cor do texto adicionada ao chat container */
+        }
+
+        .message {
+            margin-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .user {
+            float: right;
+            clear: both;
+            color: blue;
+        }
+
+        .friend {
+            float: left;
+            clear: both;
+            color: green;
+        }
+
+        /* Estilos adicionais para a caixa de digitar a mensagem */
+        #user-input {
+            width: calc(100% - 20px);
+            margin: 10px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            font-size: 16px;
+        }
+    </style>
+    <title>Chat Simples</title>
+</head>
+
+<body>
+    <header>
+        <img class="logocenter" src="logo.jpg" alt="Logo">
+    </header>
+    <div class="chat-container" id="chat-container"></div>
+    <input type="text" id="user-input" placeholder="Digite sua mensagem..." onkeypress="checkKeyPress(event)">
+    <button class="btn-entrar" onclick="sendMessage()">Enviar</button>
+
+    <script>
+        function typeMessage(sender, text) {
+            const chatContainer = document.getElementById('chat-container');
+            const messageElement = document.createElement('div');
+            const senderClass = sender === 'Usuário' ? 'user' : 'friend';
+
+            messageElement.className = `message ${senderClass}`;
+            messageElement.textContent = text;
+            chatContainer.appendChild(messageElement);
+
+            // Adiciona uma quebra de linha após a mensagem ser adicionada
+            chatContainer.appendChild(document.createElement('br'));
+        }
+
+        function sendMessage() {
+            const userInput = document.getElementById('user-input');
+            const userMessage = userInput.value.trim();
+            if (userMessage === '') {
+                return; // Não envia mensagens vazias
+            }
+
+            typeMessage('Usuário', userMessage);
+            userInput.value = ''; // Limpa o campo de input após o envio
+        }
+
+        function checkKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        }
+
+        // Exemplo de interação no chat
+        typeMessage('Amigo', 'Envie uma mensagem');
+
+        // Você pode adicionar mais mensagens conforme necessário.
+
+    </script>
+</body>
+
+</html>

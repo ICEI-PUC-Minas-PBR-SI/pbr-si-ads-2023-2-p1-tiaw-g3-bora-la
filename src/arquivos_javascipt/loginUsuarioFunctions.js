@@ -18,6 +18,10 @@ const realizarLogin = () => {
             usuariosCadastrados
         )
     ) {
+        const usuarioLogado = {
+            loginUsuario,
+        };
+        localStorage.setItem("usuarioLogado", JSON.stringify(usuarioLogado));
         alert("Login realizado com sucesso!");
         redirecionarUsuario(loginUsuario);
     } else {
@@ -61,4 +65,8 @@ const isUsuarioPessoaJuridica = (loginUsuario) => {
 
 const isNumeric = (input) => {
     return !isNaN(parseInt(input, 10));
+};
+
+const removerCaracteresEspeciaisCNPJ = (nomeSobrenomeCnpj) => {
+    nomeSobrenomeCnpj = nomeSobrenomeCnpj.replace(/[^\d]/g, "");
 };

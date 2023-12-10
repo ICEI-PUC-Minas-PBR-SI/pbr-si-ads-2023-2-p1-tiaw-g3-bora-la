@@ -12,11 +12,10 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <style>
-
-        *{
+        * {
             width: 100%;
         }
-        
+
         .col-md-5 {
             font-family: 'Roboto Mono';
         }
@@ -31,19 +30,21 @@
             min-width: 80%;
             background: whitesmoke;
         }
+
         .profile img {
-    max-width: 100%;
-    height: auto; 
+            max-width: 100%;
+            height: auto;
 
-}
+        }
 
-.col-md-5.m-5{
-    color:white;
-}
+        .col-md-5.m-5 {
+            color: white;
+        }
     </style>
+    <script src="../arquivos_javascript/eventosFunctions.js"></script>
 </head>
 
-<body>
+<body onload="renderizarEventos()">
     <header>
         <div>
             <img class="logo" src="../img/logo.jpg" width="150px" alt="logo">
@@ -51,59 +52,55 @@
         </div>
 
     </header>
-  
+
     <div class="row" id="info">
         <div class="col-md-12 text-center">
-         
-            </div>
-            <div class="col-md-5">
+
+        </div>
+        <div class="col-md-5">
             <img src="../img/pizzaria.jpg">
         </div>
-        <div class="profile col-md-5 text-ce">
-            <h1>Nome do local</h1>
-            <h2>descrição do local</h2  >
-            <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda minus reiciendis, dolores iure rem
-                earum? Provident ex qui iste neque soluta aperiam, tempore perferendis aspernatur sapiente, quod rerum
-                repellendus! Vel!</a>
 
 
+    </div>
+
+    <div id="listaEventos" class="profile col-md-5 text-ce">
+    </div>
+
+
+
+
+    <div class="col-md-5  m-5">
+        <h1>Informações</h1>
+
+        <a>categoria: pizzaria, familiar</a>
+        <br>
+        <a>Data e horarios de funcionamento: segunda-feira a sabados, das 08:00 as 22:30</a>
+        <br>
+        <a>Calendário de eventos Eventos</a>
+        <br>
+        <img src="../img/calendario.jpeg" class=" m-" width="500px">
+
+
+
+    </div>
+
+    <div class="col-md-5 m-5">
+        <h1>Endereço</h1>
+        <a>Rua: Avenida Alcantra</a>
+        <br>
+        <a>número: 42</a>
+        <br>
+        <a>Informações complementares: Em frente ao pet shop</a>
+
+        <div id="map-container-google-2" class="z-depth-1-half map-container">
+            <iframe src="https://maps.google.com/maps?q=chicago&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+                style="border:0" allowfullscreen width="800px" height="500px"></iframe>
         </div>
 
+        <a>mapa ilustrativo</a>
 
-
-
-        <div class="col-md-5  m-5">
-            <h1>Informações</h1>
-
-            <a>categoria: pizzaria, familiar</a>
-            <br>
-            <a>Data e horarios de funcionamento: segunda-feira a sabados, das 08:00 as 22:30</a>
-            <br>
-            <a>Calendário de eventos Eventos</a>
-            <br>
-            <img src="../img/calendario.jpeg"
-                class=" m-" width="500px">
-
-
-
-        </div>
-
-        <div class="col-md-5 m-5">
-            <h1>Endereço</h1>
-            <a>Rua: Avenida Alcantra</a>
-            <br>
-            <a>número: 42</a>
-            <br>
-            <a>Informações complementares: Em frente ao pet shop</a>
-           
-            <div id="map-container-google-2" class="z-depth-1-half map-container">
-                <iframe src="https://maps.google.com/maps?q=chicago&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
-                    style="border:0" allowfullscreen width="800px" height="500px"></iframe>
-            </div>
-            
-            <a>mapa ilustrativo</a>
-
-        </div>
+    </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"

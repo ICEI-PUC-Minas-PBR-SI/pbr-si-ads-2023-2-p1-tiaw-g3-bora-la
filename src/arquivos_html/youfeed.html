@@ -22,6 +22,7 @@
             animation: gradient 10s ease infinite;
             margin: 0;
             padding: 0;
+
         }
 
         *:not(footer) {
@@ -57,6 +58,7 @@
             border-radius: 3px;
         }
 
+
         .btn-entrar {
             padding: 10px;
             background: linear-gradient(135deg, #ff5100, #001455);
@@ -64,29 +66,32 @@
             color: #fff;
             border: none;
             border-radius: 50px;
+            /* Borda circular */
             cursor: pointer;
             font-weight: bold;
         }
 
         .btn-cadastro {
             padding: 12px;
+            /* Ajuste o tamanho do botão de cadastro aqui */
             background: linear-gradient(135deg, #001485, #ff00ff);
             animation: gradient 10s ease infinite;
             color: #fff;
             border: none;
             border-radius: 50px;
+            /* Borda circular */
             cursor: pointer;
             font-weight: bold;
         }
 
         .carousel {
             margin-top: 10px;
+            /* Ajuste a margem superior desejada */
         }
 
         .carousel-inner img {
             width: 100%;
             height: auto;
-            object-fit: cover;
         }
 
         header {
@@ -102,7 +107,7 @@
         }
 
         body {
-            background: black;
+            background:black;
             background-size: 200%;
         }
 
@@ -113,75 +118,71 @@
 
         .header {
             text-align: center;
+            /* Centraliza o conteúdo dentro do div */
         }
 
         .logo {
             margin-right: 10px;
+            /* Define uma margem direita para a imagem do logotipo */
         }
 
         .textcenter {
             margin-left: 10px;
+            /* Define uma margem esquerda para o texto */
         }
-
         button {
-            margin: 10px;
-            background-color: #333333;
-            color: #fff;
-            border: 2px solid #333;
-            border-radius: 20px;
-            padding: 10px 20px;
-            cursor: pointer;
+            margin: 10px; /* Adicione margens aos botões para espaçamento */
+            background-color: #333333; /* Cor de fundo escura */
+            color: #fff; /* Cor do texto branca */
+            border: 2px solid #333; /* Borda escura */
+            border-radius: 20px; /* Bordas circulares */
+            padding: 10px 20px; /* Espaçamento interno */
+            cursor: pointer; /* Transforma o cursor em uma mão ao passar o mouse */
         }
 
         .search-bar {
-            margin-top: 10px;
-            background-color: #333;
-            color: #fff;
-            border: 2px solid #333;
-            border-radius: 20px;
-            padding: 5px 50px;
+            margin-top: 10px; /* Adicione margem superior à barra de busca */
+            background-color: #333; /* Cor de fundo escura */
+            color: #fff; /* Cor do texto branca */
+            border: 2px solid #333; /* Borda escura */
+            border-radius: 20px; /* Bordas circulares */
+            padding: 5px 50px; /* Espaçamento interno */
         }
-
         .filter-label {
-            margin-right: 10px;
+            margin-right: 10px; /* Adicione margem direita para separar a etiqueta da lista suspensa */
         }
 
         .filter-container {
             display: flex;
-            align-items: center;
+            align-items: center; /* Centraliza verticalmente */
         }
-
-        .search-container {
-            border-radius: 100%;
-            margin-top: 5px;
-            color: #333;
+        .search-container{
+        border-radius: 100%;
+        margin-top: 5px;
+        color: #333;
         }
-
         h2 {
-            margin-bottom: 10px;
+            margin-bottom: 10px; /* Reduza a margem inferior do título "Bora lá" */
         }
-
-        footer {
-            background: linear-gradient(135deg, #ff5100, #001455, #ff00dd);
-            background-size: 200%;
+        footer{
+background:linear-gradient(135deg, #ff5100, #001455, #ff00dd); 
+background-size: 200%;
             animation: gradient 10s ease infinite;
         }
-
-        /* Alteração para padronizar o tamanho das imagens nos cards */
-        .card img {
-            height: 200px;
-            object-fit: cover;
-        }
+        
     </style>
 </head>
 
 <body>
     <header>
         <div class="header">
+           
             <img class="user mt-4" src="../img/menino_ney.jpg">
             <img class="logo" src="../img/logo.jpg" width="150px" alt="logo">
+           
+            
             <div>
-                <input class="search-bar" type="text" placeholder="Qual a boa de hoje?">
+                <input class= "search-bar" type="text" placeholder="Qual a boa de hoje?">
             </div>
             <div class="search-container">
                 <label class="filter-label" for="music-genre"></label>
@@ -191,46 +192,478 @@
                     <option value="rock">Rock</option>
                     <option value="hip-hop">Hip Hop</option>
                     <option value="electronic">Eletrônica</option>
+                    <!-- Adicione mais opções de gênero conforme necessário -->
                 </select>
+             
             </div>
         </div>
         <div class="button-container">
             <a href="telaconexoes.html">
-                <button>Conexões</button>
-            </a>
+            <button>Conexões</button>
+        </a>
             <button>Rolê</button>
-        </div>
+        </div>  
     </header>
     <div class="container">
         <h2 class="CORCARD">Bares</h2>
         <div id="myCarousel1" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+
+            <!-- Wrapper for slides -->
             <div class="carousel-inner">
-                <!-- Conteúdo do carousel permanece inalterado -->
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res1.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>botiquin</b></h4>
+                                    <p>O lugar ideal para você!</p>
+                                </div>  
+                                <div class="buttons">
+                                    <a href="chat.html">
+                                    <button class="btn btn-primary">In Live</button>
+                                </a>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>                              
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                              <div class="container">
+                                    <h4><b>Barearia</b></h4>
+                                    <p>Onde você deseja estar!</p>
+                                </div>
+                                <div class="buttons">
+                                    <a href="chat.html">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res3.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Canto do men</b></h4>
+                                    <p>O lugar ideal para você!</p>
+                                </div>
+                                <div class="buttons">
+                                    <a href="chat.html">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res4.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Bandomen</b></h4>
+                                    <p>Descrição do bandomen</p>
+                                </div>
+                                <div class="buttons">
+                                    <a href="chat.html">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res5.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Maria do Salgado</b></h4>
+                                    <p>Descrição do card 4</p>
+                                </div>
+                                <div class="buttons">
+                                    <a href="chat.html">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res6.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>CatMen</b></h4>
+                                    <p>Aqui de tudo tem</p>
+                                </div>
+                                <div class="buttons">
+                                    <a href="chat.html">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res7.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Bommer</b></h4>
+                                    <p>O lugar ideal para você!</p>
+                                </div>
+                                <div class="buttons">
+                                    <a href="chat.html"></a>
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res8.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Carmen</b></h4>
+                                    <p>O lugar ideal para você!</p>
+                                </div>
+                                <div class="buttons">
+                                    <a href="chat.html"></a>
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <!-- Left and right controls permanecem inalterados -->
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#myCarousel1" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel1" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
         </div>
     </div>
     <div class="container">
         <h2 class="CORCARD">Restaurantes</h2>
         <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+
             <div class="carousel-inner">
-                <!-- Conteúdo do carousel permanece inalterado -->
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Monsier</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Cartineu</b></h4><a href="estabelecimento.html"></a>
+                                    <p>Descrição do card 2</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res1.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Barueri</b></h4>
+                                    <p>Descrição do card 3</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res6.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Fatuel</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res1.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Mells</b></h4>
+                                    <p>Descrição do card 4</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>CATMR</b></h4>
+                                    <p>O lugar ideal para você!</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res3.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 6</b></h4>
+                                    <p>Descrição do card 6</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Barumaria</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <!-- Left and right controls permanecem inalterados -->
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#myCarousel2" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel2" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
         </div>
     </div>
     <div class="container">
         <h2 class="CORCARD">Pub's e shows</h2>
         <div id="myCarousel3" class="carousel slide" data-ride="carousel">
+
             <div class="carousel-inner">
-                <!-- Conteúdo do carousel permanece inalterado -->
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Rest</b></h4>
+                                    <p>O lugar ideal para você!</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Catfull</b></h4>
+                                    <p>Descrição do card 2</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res3.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>MUOEL</b></h4>
+                                    <p>Descrição do card 3</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res8.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Car99</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res5.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Marlon</b></h4>
+                                    <p>Descrição do card 4</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Cimell</b></h4>
+                                    <p>Descrição do card 5</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res3.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Cieria</b></h4>
+                                    <p>Descrição do card 6</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="../img/res2.webp" alt="Image" style="width:100%">
+                                <div class="container">
+                                    <h4><b>Card 1</b></h4>
+                                    <p>Descrição do card 1</p>
+                                </div>
+                                <div class="buttons">
+                                    <button class="btn btn-primary">In Live</button>
+                                    <a href="estabelecimento.html">
+                                    <button class="btn btn-secondary">Feed</button>
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <!-- Left and right controls permanecem inalterados -->
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#myCarousel3" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel3" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
+
         </div>
     </div>
 
-    <footer class="text-white text-center mt-3">
-        <p>Feito com ❤️ por Benjamim Oliveira</p>
+    <footer class=" text-white text-center mt-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>&copy; 2023 Baroli Work Development Company. Todos os direitos reservados.</p>
+                    <p>Contato: borala@baroliwork.com</p>
+                </div>
+            </div>
+        </div>
     </footer>
 </body>
 

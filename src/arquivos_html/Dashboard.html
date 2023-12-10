@@ -1,11 +1,33 @@
 <!DOCTYPE html>
 <html>
+<style>
+    footer {
+        background: black;
+
+    }
+
+    button {
+        margin: 10px;
+        /* Adicione margens aos botões para espaçamento */
+        background-color: #333333;
+        /* Cor de fundo escura */
+        color: #fff;
+        /* Cor do texto branca */
+        border: 2px solid #333;
+        /* Borda escura */
+        border-radius: 20px;
+        /* Bordas circulares */
+        padding: 10px 20px;
+        /* Espaçamento interno */
+        cursor: pointer;
+        /* Transforma o cursor em uma mão ao passar o mouse */
+    }
+</style>
+
 <head>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <title>Dashboard empreendedor</title>
-    <link rel="stylesheet" href="../arquivos_css/Dashboard.css">
     <style>
-        
         body {
             font-family: Arial, sans-serif;
             display: flex;
@@ -30,23 +52,17 @@
             color: #fff;
             padding: 10px 20px;
         }
-        *:not(footer) {
-            font-family: 'Roboto Mono';
-        }
 
-footer{
-background:linear-gradient(135deg, #ff5100, #001455, #ff00dd); 
-background-size: 200%;
-            animation: gradient 10s ease infinite;
-        }
         .logo {
             font-size: 24px;
-            max-width: 100px; /* Defina o tamanho máximo da logo */
+            max-width: 100px;
+            /* Defina o tamanho máximo da logo */
         }
 
         .logo img {
             max-width: 100%;
-            height: auto; /* Para manter a proporção da imagem */
+            height: auto;
+            /* Para manter a proporção da imagem */
         }
 
         .search-bar {
@@ -104,14 +120,33 @@ background-size: 200%;
             max-width: 100%;
             border-radius: 10px;
         }
+
+        header img {
+            border-radius: 100%;
+        }
     </style>
+    <script src="../arquivos_javascript/eventosFunctions.js"></script>
 </head>
+
 <body>
     <header>
         <div class="logo">
             <img src="../img/logo.jpg" alt="Logo BoraLa">
         </div>
         <input type="text" class="search-bar" placeholder="Pesquisar...">
+        <div class="button-container">
+            <a href="cadastroeventos.html">
+                <button>Cadastre um evento</button>
+            </a>
+            <a href="usuario.html">
+                <button>Editar perfil</button>
+            </a>
+            <div class="button-container">
+                <button onclick="removerEventosCadastradosByUsuarioLogado()">
+                    Excluir eventos cadastrados
+                </button>
+                </a>
+            </div>
     </header>
 
     <div class="container">
@@ -137,7 +172,6 @@ background-size: 200%;
         </div>
     </div>
 
-    
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
@@ -188,17 +222,17 @@ background-size: 200%;
                 }]
             }
         });
-        
     </script>
-        <footer class=" text-white text-center mt-3">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <p>&copy; 2023 Baroli Work Development Company. Todos os direitos reservados.</p>
-                        <p>Contato: borala@baroliwork.com</p>
-                    </div>
+    <footer class=" text-white text-center mt-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>&copy; 2023 Baroli Work Development Company. Todos os direitos reservados.</p>
+                    <p>Contato: borala@baroliwork.com</p>
                 </div>
             </div>
-        </footer>
+        </div>
+    </footer>
 </body>
+
 </html>

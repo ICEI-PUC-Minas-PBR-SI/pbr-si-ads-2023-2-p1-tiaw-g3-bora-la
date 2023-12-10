@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de perfil do usuário</title>
+    <link rel="stylesheet" href="../arquivos_css/configurações.css">
+
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto Mono' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <style>
+        * {
+            width: 100%;
+        }
+
+        .col-md-5 {
+            font-family: 'Roboto Mono';
+        }
+
+        .profile {
+            max-width: 30%;
+            min-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 3px solid black;
+            border-radius: 5px;
+           text-align: center;
+            color: white;
+        }
+ 
+        .profile img{
+            width:40%;
+            margin-top: 20px;
+            margin-bottom: 20px ;
+        }
+        button {
+            border-radius: 30px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+            max-width: 200px;
+            max-height: 28px;
+            
+            
+        }
+         
+        select{
+            margin-top: 10px;
+            margin-bottom: 15px;
+            border-radius: 30px;
+            max-width: 200px;
+            max-height: 25px;
+            
+        }
+     
+
+        .user {
+            margin: 250px;
+
+        }
+
+
+
+
+      
+
+        /* Limpar floats para ajustar a sobreposição */
+        .clear {
+            clear: both;
+        }
+
+        input {
+            position: relative;
+            top: 35%;
+            height: 45px;
+            border-radius: 15px;
+            background-color: #888;
+        }
+
+        img.user {
+            width: 40%;
+
+        }
+
+     
+    </style>
+
+
+</head>
+
+<body>
+    <header>
+        <div>
+            <img class="logo" src="../img/logo.jpg" width="150px" alt="logo">
+            <h2 class="textcenter">Bora lá</h2>
+        </div>
+
+    </header>
+    <div class="row" id="info">
+
+        <div class="profile col-lg-12 col-md-12 col-sm-12">
+
+            <h1>Configurações</h1>
+            <a>Foto de Perfil</a>
+            <br>
+            <img src="../img/placeholderimg.jpg">
+            <br>
+            <button>Alterar Imagem de Perfil</button>
+            <br>
+            <a>Nome de usuário: Usuário123</a>
+            <br>
+            <button>Alterar nome</button>
+            <br>
+            <a>Email: usuario@email.com</a>
+            <br>
+            <button>Alterar email</button>
+            <br>
+            <a>Telefone: +55 (31) 99999 8765</a> 
+            <br>
+            <button>Alterar telefone</button>
+            <p>Temas</p>
+          <select>
+            <option value="Escuro">Escuro</option>
+            <option value="Claro">Claro</option>
+          </select>
+          <p>Notificações</p>
+          <select>
+            <option value="Sempre ativas">Sempre ativadas</option>
+            <option value="Desativadas">Desativadas</option>
+          </select>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+        <footer class="bg-dark text-white text-center mt-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>&copy; 2023 Baroli Work Development Company. Todos os direitos reservados.</p>
+                        <p>Contato: borala@baroliwork.com</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+</body>
+
+
+</html>

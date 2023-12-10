@@ -48,7 +48,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Requisitos associados** | RF-009
 **Resultado esperado** | Postagem e visualização de stories
 **Dados de entrada** | Inserção de fotos e imagens do momento.
-**Resultado obtido** | Em andamento.
+**Resultado obtido** | Sem sucesso.
 
 **Caso de Teste** | **CT04 - Navegação pelos rolês cadastrados**
  :--------------: | ------------
@@ -63,14 +63,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Requisitos associados** | RF-004 e RF-008.
 **Resultado esperado** | Atualização/ criação da página de detalhes de rolê.
 **Dados de entrada** | Inserção de dados do  evento a ocorrer/ estabelecimento.
-**Resultado obtido** | Em andamento.
+**Resultado obtido** | Sucesso.
 
 **Caso de Teste** | **CT06 - Filtro de rolês por estilo**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário apre o formulário de filtros de estilos de rolê e seleciona o tipo de evento desejado.<br>2) A aplicação verifica o preenchimento do formulário e atualiza a página de feed de acordo com o que foi selecionado nos filtros.
 **Requisitos associados** | RF-006
 **Resultado esperado** | Filtragem e personalização dapágina de feed.
-**Resultado obtido** | Sucesso.
+**Resultado obtido** | Sem sucesso.
 
 **Caso de Teste** | **CT07 - Função para cadastrar avaliação de rolê**
  :--------------: | ------------
@@ -78,7 +78,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Requisitos associados** | RF-003 e RF-004
 **Resultado esperado** | Criação de avaliação do ambiente
 **Dados de entrada** | Inserção de textos e imagens para avaliar o lugar.
-**Resultado obtido** | Em andamento.
+**Resultado obtido** | Sem sucesso.
 
 **Caso de Teste** | **CT08 - Pesquisar rolê específico**
  :--------------: | ------------
@@ -86,7 +86,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Requisitos associados** | RF-006
 **Resultado esperado** | Filtro de evento específico.
 **Dados de entrada** | Nome do evento/ estabelecimento
-**Resultado obtido** | Em andamento.
+**Resultado obtido** | Sem sucesso.
 
 
 
@@ -136,7 +136,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 ## Avaliação dos Testes de Software
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Analisando os resultados dos testes, podemos concluir que faltaram recursos para a aplicação de todos os requisitos esperados e que, com isso, o projeto não foi entregue como deveria ao fim dessa etapa.
 
 
 
@@ -187,16 +187,15 @@ Cenário 1: Uma mãe que deseja encontrar locais familiares. Me cadastrar no "Bo
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    |  segundos                  |
-| 2       | SIM             | 5                    |  segundos                  |
-| 3       | SIM             | 5                    |  segundos                  |
+| 1       | SIM             | 5                    |  50 segundos                  |
+| 2       | SIM             | 5                    |  47 segundos                  |
+| 3       | SIM             | 5                    |  46 segundos                  |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+| **Média**     | 100%           | 5                | 47,6 segundo                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 |  40 segundos |
 
 
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
+    Comentários dos usuários: O cadastro está funcionando corretamente, e estou sendo direcionado para a página de rolezeiro, como esperado
 
 
 
@@ -205,49 +204,44 @@ Cenário 2: Dono de um restaurante local. Me cadastrar no "Bora Lá" e criar um 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    |  segundos                          |
-| 2       | SIM             | 5                    |  segundos                          |
-| 3       | SIM             | 5                    |  segundos                          |
+| 1       | SIM             | 5                    | 55 segundos                          |
+| 2       | SIM             | 5                    |  54 segundos                          |
+| 3       | SIM             | 5                    |  49 segundos                          |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+| **Média**     | 100%           | 5               | 52,6 segundos                          |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 47 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: O cadastro para empreendedor funcionou com cnpj e me redirecionou para o dashboard do meu estabelecimento
 
 
 Cenário 3: Um estudante que gosta de experimentar novos restaurantes. Usar a pesquisa no "Bora Lá" para encontrar restaurantes próximos à minha localização atual para que eu possa descobrir opções de jantar perto de mim.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    |  segundos                          |
-| 2       | SIM             | 5                    |  segundos                          |
-| 3       | SIM             | 5                    |  segundos                          |
+| 1       | NÃO            | 0                 |  0 segundos                          |
+| 2       | NÃO             | 0                  |  0 segundos                          |
+| 3       | NÃO             | 0                    |  0 segundos                          |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+| **Média**     | 0%           | 0               | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | NÃO | O |  0 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários:  A pesquisa do site não está funcionando.
 
 Cenário 4: Um entusiasta de esportes. Deixar avaliações e comentários sobre os bares esportivos que visitei no "Bora Lá" para compartilhar minha experiência com outros fãs para que eles possam fazer escolhas informadas.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    |  segundos                  |
-| 2       | SIM             | 5                    |  segundos                  |
-| 3       | SIM             | 5                    |  segundos                  |
+| 1       |   NÃO          |      0               |  segundos                  |
+| 2       |NÃO |      0               |  segundos                  |
+| 3       |NÃO|      0               |  segundos                  |
 |  |  |  |  |
 | **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+| **Tempo para conclusão pelo especialista** | NÃO | 0 |  segundos |
 
 
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
+    Comentários dos usuários: NÃO TEM SISTEMA PARA AVALIAÇÕES
 
 
 
@@ -256,47 +250,36 @@ Cenário 5: Um pai que adora piqueniques. Usar o "Bora Lá" para verificar a lot
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    |  segundos                          |
-| 2       | SIM             | 5                    |  segundos                          |
-| 3       | SIM             | 5                    |  segundos                          |
+| 1       | NÃO             |             0      |  segundos                          |
+| 2       | NÃO             |          0           |  segundos                          |
+| 3       | NÃO             |          0      |  segundos                          |
 |  |  |  |  |
 | **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+| **Tempo para conclusão pelo especialista** | NÃO | 0 |  segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
-
+    Comentários dos usuários: Nada está integrado em tempo real
 
 Cenário 6:Organizador de eventos corporativos. Quero que nosso centro de conferências seja facilmente localizável no mapa dentro do "Bora Lá" para que as empresas que planejam eventos possam nos encontrar facilmente e considerar nossa localização.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    |  segundos                          |
-| 2       | SIM             | 5                    |  segundos                          |
-| 3       | SIM             | 5                    |  segundos                          |
+| 1       | SIM             | 5                    | 30 segundos                          |
+| 2       | SIM             | 5                    |  32 segundos                          |
+| 3       | SIM             | 5                    | 35 segundos                          |
 |  |  |  |  |
 | **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 30 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: o mapa está visível e preciso
 
 
 
 ## Avaliação dos Testes de Usabilidade
 
 
-Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que os cenários propostos foram concluídos com sucesso.
-
-Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que variou entre 4 (bom) e 5 (ótimo).
-
-Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
-
-Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
+Levando em conta as usabilidades pretendidas, observamos que o site está mais estático do que realmente dinâmico, como deveria.
 
 
 

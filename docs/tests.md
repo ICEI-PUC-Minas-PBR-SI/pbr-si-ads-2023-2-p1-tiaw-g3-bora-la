@@ -41,15 +41,8 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados válidos no formulário de login.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT03 - Envio de email para recuperação de senha**
- :--------------: | ------------
-**Procedimento**  | 1) Caso o usuário não se lembre da sua senha, ele pode clicar no botão "esqueci minha senha" e informar o seu email ou cnpj de cadastro<br> 2) A aplicação armazena o email e verifica se há um cadastro com aquelas informações<br> 3) caso exista, um email com um link para redirecionamento é enviado para o endereço cadastrado <br>4) o usuário insere a nova senha desejada e confirma a senha, ao finalizar, o sistema armazena as novas informações e o usuário seleciona o botão "login" e é direcionado para a página de login.
-**Requisitos associados** | Pagina: Borala.html e Recuperacao.html
-**Resultado esperado** | Atualização da senha
-**Dados de entrada** | Inserção de um email válido e nova senha.
-**Resultado obtido** | Sem sucesso por ausencia de automação para enviar emails.
 
-**Caso de Teste** | **CT04 - Cadastro e visualização de "stories"**
+**Caso de Teste** | **CT03 - Cadastro e visualização de "stories"**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário seleciona a opção "conexões para visualizar os stories das suas conexões, nessa página ele tem a opção de postar os próprios "stories" do rolê que estiver visitando<br>2) A aplicação aciona a câmera do dispositivo e o usuário faz o registro e postagem do seus stories <br> 3) A aplicação armazena os stories e os deixa visíveis para as conexões do usuário por 6 horas.
 **Requisitos associados** | RF-009
@@ -57,14 +50,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de fotos e imagens do momento.
 **Resultado obtido** | Em andamento.
 
-**Caso de Teste** | **CT05 - Navegação pelos rolês cadastrados**
+**Caso de Teste** | **CT04 - Navegação pelos rolês cadastrados**
  :--------------: | ------------
 **Procedimento**  | 1) O Usuário pode navegar e ver detalhes de todos os rolês cadastrados que aparecerem na página de feed, ampliando imagens e vendo as avaliações.
 **Requisitos associados** | RF-002 e RF-005
 **Resultado esperado** | Visualização de detalhes e avaliações e navegação pelos rolês sugeridos
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT06 - Cadastro de Rolê (para empreendedores)**
+**Caso de Teste** | **CT05 - Cadastro de Rolê (para empreendedores)**
  :--------------: | ------------
 **Procedimento**  | 1) O Empreendedor pode personalizar a página de detalhes do seu evento/estabelecimento para fornecer informações para possíveis usuários interessados<br>2) A aplicação armazena dados de localização/ evento/ tipo de rolê/ possíveis filtros/ preços / etc.<br> 3) A página de detalhes de evento é criada/atualizada de acordo com as requisições do empreendedor.
 **Requisitos associados** | RF-004 e RF-008.
@@ -72,14 +65,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados do  evento a ocorrer/ estabelecimento.
 **Resultado obtido** | Em andamento.
 
-**Caso de Teste** | **CT07 - Filtro de rolês por estilo**
+**Caso de Teste** | **CT06 - Filtro de rolês por estilo**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário apre o formulário de filtros de estilos de rolê e seleciona o tipo de evento desejado.<br>2) A aplicação verifica o preenchimento do formulário e atualiza a página de feed de acordo com o que foi selecionado nos filtros.
 **Requisitos associados** | RF-006
 **Resultado esperado** | Filtragem e personalização dapágina de feed.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT08 - Função para cadastrar avaliação de rolê**
+**Caso de Teste** | **CT07 - Função para cadastrar avaliação de rolê**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário informa dados de lotação, preços, qualidade do evento, educação dos funcionário, etc e insere imagens e vídeos do lugar em tempo real.<br>2) A aplicação armazena os dados e os torna visíveis na página de detalhes de evento.
 **Requisitos associados** | RF-003 e RF-004
@@ -87,7 +80,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de textos e imagens para avaliar o lugar.
 **Resultado obtido** | Em andamento.
 
-**Caso de Teste** | **CT09 - Pesquisar rolê específico**
+**Caso de Teste** | **CT08 - Pesquisar rolê específico**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário insere na barra de pesquisa o nome do evento/ estabelecimento de interesse.<br>2) A aplicação busca esse evento e fornece as informações de detalhes ao usuário.
 **Requisitos associados** | RF-006

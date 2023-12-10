@@ -97,42 +97,42 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-01 - Criar uma conta*                                         |
 |---|---|
 |Requisito Associado | RF-001 (Os usuários devem poder criar contas pessoais com informações de perfil.) e RF-008(Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.).|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: | https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing| 
 
 |*Caso de Teste*                                 |*TC-02 - Efetuar Login *                                         |
 |---|---|
 |Requisito Associado |RF-001 (Os usuários devem poder criar contas pessoais com informações de perfil.) e RF-008(Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.).|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing | 
 
 |*Caso de Teste*                                 |*TC-03 - Cadastro e visualização de "stories"*                                         |
 |---|---|
 |Requisito Associado | RF-009-Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: | https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing | 
 
 |*Caso de Teste*                                 |*TC-04 - Navegação pelos rolês cadastrados*                                         |
 |---|---|
 |Requisito Associado | RF-002(Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc.) e RF-005(Os usuários devem poder visualizar a localização dos locais em um mapa interativo.) |
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: |https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing  | 
 
 |*Caso de Teste*                                 |*TC-05 - CCadastro de Rolê (para empreendedores)*                                         |
 |---|---|
 |Requisito Associado |RF-004(O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.) e RF-008(Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.). |
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: |https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing | 
 
 |*Caso de Teste*                                 |*TC-06 - Filtro de rolês por estilo*                                         |
 |---|---|
 |Requisito Associado |RF-006-Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais, como adequação para crianças, opções vegetarianas, acessibilidade, etc. |
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: |https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing  | 
 
 |*Caso de Teste*                                 |*TC-07 - Função para avaliar rolê*                                         |
 |---|---|
 |Requisito Associado | RF-003 (Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.)e RF-004(O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.)|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: |https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing | 
 
 |*Caso de Teste*                                 |*TC-08 - Pesquisar rolê específico*                                         |
 |---|---|
 |Requisito Associado | RF-006-Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais, como adequação para crianças, opções vegetarianas, acessibilidade, etc. |
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://drive.google.com/drive/folders/1DbdPMZ30ijHGJSFMUeJl9MEHQ1AGn7HF?usp=sharing | 
 
 ## Avaliação dos Testes de Software
 

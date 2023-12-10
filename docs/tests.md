@@ -118,11 +118,6 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 
 
-## Testes de unidade automatizados (Opcional)
-
-Se o grupo tiver interesse em se aprofundar no desenvolvimento de testes de software, ele podera desenvolver testes automatizados de software que verificam o funcionamento das funções JavaScript desenvolvidas. Para conhecer sobre testes unitários em JavaScript, leia 0 documento  [Ferramentas de Teste para Java Script](https://geekflare.com/javascript-unit-testing/).
-
-
 # Testes de Usabilidade
 
 O objetivo do Plano de Testes de Usabilidade é obter informações quanto à expectativa dos usuários em relação à  funcionalidade da aplicação de forma geral.
@@ -155,23 +150,27 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
-| 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
+| 1             | Uma mãe que deseja encontrar locais familiares. Me cadastrar no "Bora Lá" e criar um perfil personalizado para planejar nossas saídas em família de forma mais informada e segura. |
+| 2             | Dono de um restaurante local. Me cadastrar no "Bora Lá" e criar um perfil do meu estabelecimento e compartilhar informações sobre nosso menu e eventos especiais para que mais clientes em potencial saibam sobre o que oferecemos. |
+| 3             | Um estudante que gosta de experimentar novos restaurantes. Usar a pesquisa no "Bora Lá" para encontrar restaurantes próximos à minha localização atual para que eu possa descobrir opções de jantar perto de mim. |
+| 4             | Um entusiasta de esportes. Deixar avaliações e comentários sobre os bares esportivos que visitei no "Bora Lá" para compartilhar minha experiência com outros fãs para que eles possam fazer escolhas informadas. |
+| 5             | Um pai que adora piqueniques. Usar o "Bora Lá" para verificar a lotação atual do parque que planejo visitar com minha família para evitar multidões e aproveitar mais nosso tempo juntos. |
+| 6             | Organizador de eventos corporativos. Quero que nosso centro de conferências seja facilmente localizável no mapa dentro do "Bora Lá" para que as empresas que planejam eventos possam nos encontrar facilmente e considerar nossa localização. |
 
 
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1: Uma mãe que deseja encontrar locais familiares. Me cadastrar no "Bora Lá" e criar um perfil personalizado para planejar nossas saídas em família de forma mais informada e segura. 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-| 3       | SIM             | 5                    | 39.09 segundos                  |
+| 1       | SIM             | 5                    |  segundos                  |
+| 2       | SIM             | 5                    |  segundos                  |
+| 3       | SIM             | 5                    |  segundos                  |
 |  |  |  |  |
 | **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
 
 
     Comentários dos usuários: Achei o site muito bom e intuitivo. 
@@ -180,22 +179,89 @@ Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site u
 
 
 
-Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+Cenário 2: Dono de um restaurante local. Me cadastrar no "Bora Lá" e criar um perfil do meu estabelecimento e compartilhar informações sobre nosso menu e eventos especiais para que mais clientes em potencial saibam sobre o que oferecemos.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 5                    | 36.21 segundos                          |
+| 1       | SIM             | 5                    |  segundos                          |
+| 2       | SIM             | 5                    |  segundos                          |
+| 3       | SIM             | 5                    |  segundos                          |
 |  |  |  |  |
 | **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
 
 
     Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
     redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
     tanto na hora da pesquisa, quanto depois dela, nos resultados.
 
+
+Cenário 3: Um estudante que gosta de experimentar novos restaurantes. Usar a pesquisa no "Bora Lá" para encontrar restaurantes próximos à minha localização atual para que eu possa descobrir opções de jantar perto de mim.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    |  segundos                          |
+| 2       | SIM             | 5                    |  segundos                          |
+| 3       | SIM             | 5                    |  segundos                          |
+|  |  |  |  |
+| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+
+
+    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
+    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
+    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+
+Cenário 4: Um entusiasta de esportes. Deixar avaliações e comentários sobre os bares esportivos que visitei no "Bora Lá" para compartilhar minha experiência com outros fãs para que eles possam fazer escolhas informadas.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    |  segundos                  |
+| 2       | SIM             | 5                    |  segundos                  |
+| 3       | SIM             | 5                    |  segundos                  |
+|  |  |  |  |
+| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+
+
+    Comentários dos usuários: Achei o site muito bom e intuitivo. 
+    Não tive dificuldades e acho que ficou bem intuitivo.
+
+
+
+
+Cenário 5: Um pai que adora piqueniques. Usar o "Bora Lá" para verificar a lotação atual do parque que planejo visitar com minha família para evitar multidões e aproveitar mais nosso tempo juntos.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    |  segundos                          |
+| 2       | SIM             | 5                    |  segundos                          |
+| 3       | SIM             | 5                    |  segundos                          |
+|  |  |  |  |
+| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+
+
+    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
+    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
+    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+
+
+Cenário 6:Organizador de eventos corporativos. Quero que nosso centro de conferências seja facilmente localizável no mapa dentro do "Bora Lá" para que as empresas que planejam eventos possam nos encontrar facilmente e considerar nossa localização.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    |  segundos                          |
+| 2       | SIM             | 5                    |  segundos                          |
+| 3       | SIM             | 5                    |  segundos                          |
+|  |  |  |  |
+| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 |  segundos |
+
+
+    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
+    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
+    tanto na hora da pesquisa, quanto depois dela, nos resultados.
 
 
 

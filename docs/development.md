@@ -6,6 +6,7 @@
 - Feed: [src: youfeed.html]
 - Conexões: [src: telaconexoes.html]
 - Configurações: [src: configurações.html]
+- Link Vercel:  pbr-si-ads-2023-2-p1-tiaw-g3-bora-la-njp8.vercel.app
 
 
 > **Links Úteis**:

@@ -1,3 +1,5 @@
-[submodule "Documents/Borafinal/pbr-si-ads-2023-2-p1-tiaw-g3-bora-la"]
-	path = Documents/Borafinal/pbr-si-ads-2023-2-p1-tiaw-g3-bora-la
+[submodule "pbr-si-ads-2023-2-p1-tiaw-g3-bora-la
+/src/"]
+	path = pbr-si-ads-2023-2-p1-tiaw-g3-bora-la
+/src/
 	url = https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g3-bora-la.git

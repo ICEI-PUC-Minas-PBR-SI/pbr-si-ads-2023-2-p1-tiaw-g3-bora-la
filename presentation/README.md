@@ -26,9 +26,9 @@ O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do conte
 
 ## Conjunto de Slides (Estrutura)
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos. Os arquivos devem ser postados na pasta [presentation](../presentation)
+O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos. Os arquivos devem ser postados na pasta [presentation](../presentation)</br></br>
 Nossos slides da primeira apresentação contavam com as nossas expectativas para a criação do app, o fluxo de telas, etc.
-Nosso slide final apresenta o aplicativo na sua essência, apresenta uma persona como exemplo de usabilidade e mostra nossas metas concluídas e nossas observações quanto ao trabalho, o que deu certo e o que não conseguimos concluir ainda, além de apresentar vídeos demosnstrando o fluxo de telas e as usabilidades concluídas e descontinuadas.
+Nosso slide final apresenta o aplicativo na sua essência, apresenta uma persona como exemplo de usabilidade e mostra nossas metas concluídas e nossas observações quanto ao trabalho, o que deu certo e o que não conseguimos concluir ainda, além de apresentar vídeos demosnstrando o fluxo de telas e as usabilidades concluídas e descontinuadas.</br></br>
 link da apresentação final no canva: (https://www.canva.com/design/DAF2twysfPk/MI_XBUpiysARqZIOvLBYWw/edit?utm_content=DAF2twysfPk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
 > **Links Úteis**:

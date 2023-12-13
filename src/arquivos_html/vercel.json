@@ -1,9 +1,6 @@
+
 {
-  "rewrites": [
-    { "source": "/css/(.*)", "destination": "/src/arquivos_css/$1" },
-    { "source": "/js/(.*)", "destination": "/src/arquivos_javascript/$1" },
-    { "source": "/img/(.*)", "destination": "/src/img/$1" },
-    { "source": "/html/(.*)", "destination": "borala.html" },
-    { "source": "/(.*)", "destination": "/src/$1" }
-  ]
+   "rewrites":  [
+       {"source": "/(.*)", "destination": "borala.html"}
+    ]
 }

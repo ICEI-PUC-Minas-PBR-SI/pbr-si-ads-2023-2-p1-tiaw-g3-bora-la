@@ -1,6 +1,18 @@
-
 {
-   "rewrites":  [
-       {"source": "/(.*)", "destination": "borala.html"}
-    ]
+  "version": 2,
+  "builds": [
+    { "src": "arquivos_html/*.html", "use": "@vercel/static" },
+    { "src": "arquivos_html/css/**/*", "use": "@vercel/static" },
+    { "src": "arquivos_html/js/**/*", "use": "@vercel/static" },
+    { "src": "arquivos_html/img/**/*", "use": "@vercel/static" },
+    { "src": "arquivos_html/vercel.json", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/arquivos_html/(.*\\.html)", "dest": "/arquivos_html/$1" },
+    { "src": "/arquivos_html/css/(.*)", "dest": "/arquivos_html/css/$1" },
+    { "src": "/arquivos_html/js/(.*)", "dest": "/arquivos_html/js/$1" },
+    { "src": "/arquivos_html/img/(.*)", "dest": "/arquivos_html/img/$1" },
+    { "src": "/arquivos_html/vercel.json", "dest": "/arquivos_html/vercel.json", "src": "/arquivos_html/vercel.json" },
+    { "src": "/(.*)", "dest": "/arquivos_html/borala.html" }
+  ]
 }

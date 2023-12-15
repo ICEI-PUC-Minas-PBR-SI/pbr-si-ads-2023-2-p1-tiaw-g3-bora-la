@@ -33,7 +33,7 @@ A tela Inicial apresenta um menu lateral com as principais seções do portal, e
 
 Tela de Login dos usuários
 
-![Exemplo de Wireframe](src/arquivos_html/teladeloggin.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/teladeloggin.JPG)
   
   Tela de Cadastro
 

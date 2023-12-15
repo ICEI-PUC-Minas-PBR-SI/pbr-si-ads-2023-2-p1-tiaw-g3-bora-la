@@ -38,7 +38,7 @@ Tela de Login dos usuários
   Tela de Cadastro
 
   
-![Exemplo de Wireframe](../src/arquivos_html/cadastro.JPEG)
+![Exemplo de Wireframe](../src/arquivos_html/cadastro.JPG)
   
   Tela de Recuperação de senha
 

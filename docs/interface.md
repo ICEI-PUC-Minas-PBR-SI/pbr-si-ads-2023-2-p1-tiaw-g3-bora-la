@@ -38,15 +38,15 @@ Tela de Login dos usuários
   Tela de Cadastro
 
   
-![Exemplo de Wireframe](cadastro.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/cadastro.JPG)
   
   Tela de Recuperação de senha
 
-![Exemplo de Wireframe](telarecuperação.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/telarecuperação.JPG)
   
   Feed contendo os estabelecimentos e festas de sua região
 
-![Exemplo de Wireframe](feedsrole.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/feedsrole.JPG)
   
   feed contendo fotos e videos de suas conexões(amigos)
 
@@ -58,7 +58,7 @@ Tela de Login dos usuários
 
   Tela de perfil do usuário
   
-![Exemplo de Wireframe](perfilusuario.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/perfilusuario.JPG)
 
   Modal com chat de texto
   
@@ -66,19 +66,19 @@ Tela de Login dos usuários
 
   Botão com mais opções
 
-![Exemplo de Wireframe](botãoperfil.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/botãoperfil.JPG)
 
   Feed de contas de empreendedores
 
-![Exemplo de Wireframe](feedempreendedor.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/feedempreendedor.JPG)
 
   Dashboard para empreendedores
 
-![Exemplo de Wireframe](dashboardlojistas.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/dashboardlojistas.JPG)
 
   Avaliações dos usuários
 
-![Exemplo de Wireframe](avaliações.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/avaliações.JPG)
 
 
 

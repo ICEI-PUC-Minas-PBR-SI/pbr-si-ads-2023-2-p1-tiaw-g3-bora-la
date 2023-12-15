@@ -54,7 +54,7 @@ Tela de Login dos usuários
   
   Tela com informações do estabelecimento
 
-![Exemplo de Wireframe](informaçoesestabelecimento.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/informaçoesestabelecimento.JPG)
 
   Tela de perfil do usuário
   

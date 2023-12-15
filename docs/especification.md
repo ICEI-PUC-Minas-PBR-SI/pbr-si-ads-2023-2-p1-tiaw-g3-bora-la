@@ -128,7 +128,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
 |RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA | João |
-|RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA | |
+|RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA | Benjamin |
 |RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | Kelvin |
 |RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | Benjamin |
 |RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA | Benjamin, João e Maria |

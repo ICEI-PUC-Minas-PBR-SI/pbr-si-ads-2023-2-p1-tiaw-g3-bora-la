@@ -50,7 +50,7 @@ Tela de Login dos usuários
   
   feed contendo fotos e videos de suas conexões(amigos)
 
-![Exemplo de Wireframe](feedconexões.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/feedconexões.JPG)
   
   Tela com informações do estabelecimento
 
@@ -62,7 +62,7 @@ Tela de Login dos usuários
 
   Modal com chat de texto
   
-![Exemplo de Wireframe](modalchat.JPG)
+![Exemplo de Wireframe](../src/arquivos_html/modalchat.JPG)
 
   Botão com mais opções
 

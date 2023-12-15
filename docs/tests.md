@@ -44,11 +44,11 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT03 - Cadastro e visualização de "stories"**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário seleciona a opção "conexões para visualizar os stories das suas conexões, nessa página ele tem a opção de postar os próprios "stories" do rolê que estiver visitando<br>2) A aplicação aciona a câmera do dispositivo e o usuário faz o registro e postagem do seus stories <br> 3) A aplicação armazena os stories e os deixa visíveis para as conexões do usuário por 6 horas.
+**Procedimento**  | 1) Usuário seleciona a opção "conexões para enviar mensagens.<br>2) A aplicação aciona a câmera do dispositivo e o usuário faz o registro e postagem do seus stories <br> 3) A aplicação armazena os stories e os deixa visíveis para as conexões do usuário por 6 horas.
 **Requisitos associados** | RF-009
 **Resultado esperado** | Postagem e visualização de stories
 **Dados de entrada** | Inserção de fotos e imagens do momento.
-**Resultado obtido** | Sem sucesso.
+**Resultado obtido** | Sucesso.
 
 **Caso de Teste** | **CT04 - Navegação pelos rolês cadastrados**
  :--------------: | ------------
@@ -67,7 +67,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT06 - Filtro de rolês por estilo**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário apre o formulário de filtros de estilos de rolê e seleciona o tipo de evento desejado.<br>2) A aplicação verifica o preenchimento do formulário e atualiza a página de feed de acordo com o que foi selecionado nos filtros.
+**Procedimento**  | 1) Usuário abre o formulário de filtros de estilos de rolê e seleciona o tipo de evento desejado.<br>2) A aplicação verifica o preenchimento do formulário e atualiza a página de feed de acordo com o que foi selecionado nos filtros.
 **Requisitos associados** | RF-006
 **Resultado esperado** | Filtragem e personalização dapágina de feed.
 **Resultado obtido** | Sem sucesso.

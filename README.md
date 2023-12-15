@@ -18,7 +18,7 @@ O Bora Lá é uma rede social que conecta pessoas a lugares por categoria, conte
 * Maria Eduarda Wilken de Souza
 * Nicole Ferreira
 * João Gabriel Pires
-* Kelvin Vinicíus
+* Kelvin Vinicius Gomes Marinho
 * Flávio Siqueira 
 
 ## Orientador

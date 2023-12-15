@@ -127,16 +127,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA |  |
+|RF-001| Os usuários devem poder criar contas pessoais com informações de perfil. | ALTA | João |
 |RF-002| Os usuários devem ser capazes de pesquisar locais públicos com base em critérios como tipo de local, localização, faixa etária, etc. | ALTA | |
-|RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | |
-|RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | |
-|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA | |
+|RF-003| Os usuários podem deixar avaliações e comentários sobre os locais que visitaram.| ALTA | Kelvin |
+|RF-004| O aplicativo deve fornecer informações atualizadas sobre lotação, horários de funcionamento, eventos especiais, etc.| ALTA | Benjamin |
+|RF-005| Os usuários devem poder visualizar a localização dos locais em um mapa interativo.| BAIXA | Benjamin, João e Kelvin |
 |RF-006| Os usuários podem filtrar os resultados da pesquisa com base em suas preferências pessoais, como adequação para crianças, opções vegetarianas, acessibilidade, etc.| ALTA | |
-|RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA | |
-|RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | |
-|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | |
-|RF-010|A interface deve ser projetada de acordo com as diretrizes de acessibilidade.| BAIXA | |
+|RF-007| Os usuários podem receber notificações sobre eventos especiais, promoções ou locais próximos que possam ser de interesse.| MÉDIA | Benjamin |
+|RF-008| Os proprietários de negócios podem criar perfis para seus estabelecimentos e atualizar informações relevantes.| ALTA | Kelvin |
+|RF-009| Os usuários podem se conectar, seguir e interagir com outros usuários, compartilhando experiências e recomendações.| MÉDIA | João e Kelvin |
+|RF-010|A interface deve ser projetada de acordo com as diretrizes de acessibilidade.| BAIXA | João |
 
 
 
